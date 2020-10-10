@@ -1,0 +1,2054 @@
+,country,symptoms,outcome,age,sex,travel_history_location,reported_market_exposure,additional_information
+476,Japan,"fever, severe pneumonia",,60,male,,,Taxi driver believed to have had contact with a passenger from the Diamond Princess ship
+504,Japan,fever,,40-49,male,Wuhan,no,Case #24 returned on January 30 on a charter flight (second flight)
+756,Japan,"cough, fever, sore throat",,20-29,male,Wuhan,,Evacuee on 4th charter flight; February 7 Returned to Japan. Asymptomatic on flight but fever was observed later. No clear contact with pneumonia patients has been confirmed in China.
+765,Japan,"cough, fever",,40-49,male,Aichi Prefecture,,
+767,Japan,"dyspnea, fever",,80-89,male,,,#56
+769,Japan,"cough, difficulty breathing, fever",,50-59,male,,,#58
+770,Japan,fever,,20-29,male,,,"#57 Son of a doctor (with confirmed inf on 16.02.2020) who works at Kamata Branch Hospital of Makita General Hospital in Ota-ku, Tokyo, contact with father 3 days before symptoms started"
+777,Japan,fever (38 ° C),,50-59,male,,,#38 male surgeon who works at Saiseikai Arita Hospital (where two other infected individuals worked); worked with case #29
+778,Japan,"37.1 ° C, mild coughing",,50-59,female,,,"#39 wife of #38; mild fever 07-02-2020, then fever returned with cough 14-02-2020"
+781,Japan,cough,,60-69,male,,,#40 had medical care with case #38
+799,China,cough,,69,female,Guangzhou,,Case 142
+800,China,"abdominal pain, pulmonary inflammation",,16,female,Wuhan,,Case 143 was isolated and under observation
+805,China,Sore throat,,43,male,,,Case 147
+817,China,cough,,34,female,"Wuhan, China",,Case 162; from Wuhan high-speed rail
+1042,Japan,fever,,50-59,male,Hubei,,"Case 19 From Hubei, visited Japan, initial sutum test negative. returned to China on 30 Jan. Additional sample taken at dischrge from hospital. tested later and was positive."
+1062,Malaysia,"feeling ill, coughing",,31,male,"Macau, mainland China",,"working in Macau, China and has a history of traveling to mainland China before returning to Malaysia on February 1, 2020"
+1149,Malaysia,"cough, fever",,39,female,"Wuhan, China",,"Case 19; from China and believed to be linked to two other victims, also from Wuhan (mother and a friend)"
+1150,Japan,"cough, fever",,20-29,male,,,Case 30;
+1153,Japan,"abdominal pain, diarrhea, fever, general malaise",,50-59,male,,,Case 29;
+1154,Japan,fever,,70-79,male,,,Case 28;
+1161,Japan,poor physical condition,,60-60,female,,,Taxi driver who drove passengers of the Diamond Princess
+1167,Thailand,"cough, fatigue, fever",,35,female,,,patient is a medical personnel; 15.02.2020; history of close contact with confirmed patients
+1183,,"cough, fever",,30-39,male,,,Case 22;
+1369,China,fever,,43,male,Wuhan,,work in a food market in Wuhan
+1380,China,fever,,48,female,Wuhan,,work in a food market in Wuhan
+1391,China,fever,,54,female,Wuhan,,work in a food market in Wuhan
+1396,Japan,fever,,20-29,female,,,Daughter of case 11538; Nurse at Kumamoto Odadai Rehabilitation Hospital
+1397,Japan,fever,,50-59,male,,,Father of case 11537
+1398,Lebanon,yes,,45,female,"Qom, Iran",,"Travel history to  Qom, Iran- arrvied on 20.02.2020"
+1402,China,fever,,47,male,Wuhan,,
+1408,Japan,fever 38.3,,50-59,male,,,"#83 - no travel to China, but in Tokyo 12-14"
+1409,Japan,fever (39.5 ℃),,0-6,male,Wuhan,,#84 - preschool son of returnee Dx'd 10 Feb
+1410,Japan,fever 37.7℃,,0-10,male,,,#80 - brothers
+1411,Japan,fever 37.7℃,,0-10,male,,,#81 - brother
+1412,Japan,fever 37.5℃,,40-49,female,,,#82
+1413,China,fever,,55,male,Wuhan,,"a business trip to Wuhan started from 30.11.2019, 09.01.2020 returned to Ma'anshan from Wuhan"
+1414,Japan,anorexia,,80-89,male,,,#89
+1424,China,"cough, fever",,47,female,Wuhan,,work in a restaurant near a railway station in Wuhan
+1435,China,fever,,46,female,Wuhan,,"16.01.2020 from Wuhan to Taizhou in Jiangsu province, 21.01.2020 from Taizhou in Jiangsu province to Ma'anshan"
+1573,Japan,"nausea, cough, pneumonia, fever",,60-69,female,,,
+1575,Japan,fever,,40-49,male,,,"Symptoms subdued, tested due to infection of coleague"
+1673,Japan,"fever 38.2 ℃, cough",,60-69,male,,,#102/Hokkaido #13
+1674,Japan,fever (38 ° C),,13-19,female,,,#104/Hokkaido #15
+1675,Japan,fever 37 C,,70-79,female,,,#98/Hokkaido #9
+1676,Japan,"malaise, headache",,50-59,female,,,#103/Hokkaido #14
+1677,Japan,"fever (37 ℃), breathing difficulty",,50-59,male,,,#113/Hokkaido #17
+1678,Japan,"fever (37.5 ℃, then 38 ℃), cough, malaise",,70-79,male,,,#100/Hokkaido #11
+1679,Japan,"sore throat, Cough, fever (37 ℃)",,50-59,female,,,#105//Hokkaido #16
+1682,Japan,fever,,50-59,male,,,#112 Family IDs 11807-10
+1686,Japan,"fever, shortness of breath, pneumonia",,50-59,female,Sapporo,,#97 Went to Sapporo Snow Festival
+1687,Japan,severe dyspnea,,60-69,male,Indonesia,,#106
+1688,Japan,fever,,60-69,male,,,#109 Contact with infected Nagoya female in her 50s
+1689,Japan,fever,,60-69,male,,,#110 Contact with infected Nagoya female in her 50s
+1690,Japan,fever,,60-69,female,,,#107 Contact with infected Nagoya female in her 60s
+1692,Japan,fever,,40-49,female,,,#108 Contact with infected Nagoya female in her 60s
+1741,China,"fever, cough",,96,female,,,
+1744,Japan,nausea,,60-69,female,,,#96
+1793,China,fever,,10,male,,,Son of case diagnosed on 05.02.2020
+1809,China,fever; fatigue,,62,male,Wuhan; Nanning,,
+1810,China,chest tightness; fatigue,,52,female,,,
+1858,China,cough; fever,,44,female,,,
+1859,China,fever; nasal congestion; runny nose; sore throat; cough,,55,female,,,
+1884,Japan,fever 39.3,,20-29,male,,,"#120, Hokkaido #21"
+1885,Japan,fever 38,,70-79,male,,,"#121, Hokkaido #22"
+1886,Japan,fever 38,,30-39,female,,,"#122, Hokkaido #23"
+1892,,"fever, cough",,20,female,,,"case 25, visited case 24 in hospital on 12.02.2020"
+1893,,"no respiratory symptoms, esophageal reflux",,40,female,,,"case 26, lives with case 24"
+1909,China,fever,,28,female,,,Associated with other cases - isolated 15.02.2020
+1925,China,fever,,1.75,female,"Yichang City, Hubei Province",,Daughter of prior case reported 31.01.2020
+1929,China,cough; sputum; fever,,57,male,Beijing,,Stayed with confoirmed case in Beijing
+1932,China,dry cough,,52,female,Chengdu,,
+1933,China,cough; sore body; cold,,41,male,Wuhan,,
+1943,Spain,fever,,62,male,,,No clear travel link
+1950,Spain,flu-like symptoms,,36,female,Italy,,
+1993,,acute pharyngitis,,,female,,,Case 30; visited hospital multiple times
+1995,,sore throat,,50-59,male,Wuhan,,Case 28; linked to Case 27
+2006,Germany,"fever, sore throat, mild cough",,41,male,,,"Soldier, contact with infected person on 15.02.2020"
+2179,China,fever; fatigue; dry cough,,47,female,,,
+2475,China,fever,,21,female,Japan,,Passengers of the Diamond Princess cruise ship
+2476,China,cough,,16,male,Japan,,Passengers of the Diamond Princess cruise ship
+2477,China,fever,,80,male,,,"Have been to the ""Fuhui Jingshe"" buddhist hall in meilun building"
+2478,China,fever,,,female,,,
+2479,China,"fever, cough",,33,male,,,
+2481,China,cough,,55,female,,,"Have been to the ""Fuhui Jingshe"" buddhist hall in meilun building"
+2483,China,cough,,60,female,,,
+2484,Japan,low fever 37.0 ℃,,60-69,male,,,#148 February 15  Diamond Princess passenger. Negative test on February 16. Disembark on February 20. At home February 20 to 25. nasopharyngeal swab test taken 25 Feb. Positive.
+2485,Japan,low fever (37.4 ℃),,50-59,male,,,"#149 Doctor for Disaster Psychiatric Assistance Team February 12-18, cruise ship ""Diamond Princess"""
+2486,Japan,low fever (37.2 ° C); cough,,70-79,male,,,#150 Diamond Princess passenger; 14 Feb negative pharyngeal swab; 21 Feb Disembarked. At home 21-25 Feb.
+2487,Japan,"fever (39.5 ℃), malaise",,20-29,male,,,#151/Hokkaido #33
+2488,Japan,"sore throat; fever, nasal discharge",,20-29,female,,,#152/Hokkaido #34
+2489,Japan,"fever (37.4 ° C), pneumonia",,70-79,male,,,#153/Hokkaido #35
+2490,Japan,cough,,,,,,#154 Died 25.02.2020
+2492,Japan,"fever (37.8 ℃), cough",,70-79,female,,,#155/Hokkaido #37
+2493,Japan,"fever (38-39 ° C), malaise",,70-79,female,,,#156/Hokkaido #36
+2494,Japan,"fever, cough",,40-49,male,,,#157/Hokkaido #39
+2496,Japan,"fever 38.1 ℃ Cough, malaise, anorexia",,50-59,male,,,"#158, identified in contact testing then became sick"
+2497,Japan,"Discharge, cough, sore throat, chest pain",,40-49,female,,,"#159, negative PCR 06 Feb; retested 26 Feb"
+2498,Japan,"fever, cough, phlegm, dyspnea",,80-89,male,,,#160/Tokyo case #33
+2499,Japan,"fever, cough, phlegm, dyspnea",,70-79,male,,,#161/Tokyo case #34
+2500,Japan,"fever, cough, phlegm",,70-79,male,,,#162/Tokyo case #35
+2501,Japan,"fever 37.8 ℃ , sore throat",,50-59,male,,,#163
+2503,Japan,fever,,60-69,male,,,#164
+2504,Japan,"fever, cough",,70-79,male,,,#165
+2505,Japan,"fever 37.1 ℃ , cough",,70-79,male,,,#166
+2506,Japan,"fever 38.3 ℃ , cough",,70-79,female,,,#167
+2508,Japan,"malaise, fever (37 ℃); headache, toothache, pneumonia",,50-59,male,,,#168 - no Hx of contact with cases; saw dentist 19 Feb
+2509,Japan,"Sore throat, chills",,50-59,female,,,#169 - contact with 1st patient in Gifu on 20-24 Feb
+2510,Japan,fever 38,,50-59,male,,,#170
+2511,Japan,"fever 37.5 , headache, malaise",,50-59,male,,,#171
+2512,Japan,"fever, cough, phlegm",,60-69,female,,,#172/ Tokyo case 36
+2514,Japan,"Fever, cough, headache",,40-49,male,,,"#173  Shinkansen travel 20 feb. 21Feb returned to Osaka, 24 in Hirakata"
+2515,Japan,fever 37.2,,50-59,male,,,#174/ Hokkaido #40; close contact with Hokkaido #28
+2516,Japan,"cough, malaise",,50-59,male,,,#175/ Hokkaido #41; close contact with Hokkaido #28
+2517,Japan,"sore throat, fever (38-39 ℃)",,30-39,male,,,#176/Hokkaido #42
+2518,Japan,"fatigue, fever (38 ℃)",,70-79,male,,,#177/Hokkaido #43
+2519,Japan,fever (38.3 ℃),,60-69,male,,,#178/Hokkaido #44; Akishi town within Kushiro
+2520,Japan,"vomiting, cough, fever (38.2 ℃), sore throat",,40-49,male,,,#179/Hokkaido #45
+2521,Japan,"fever (39 ° C), joint pain",,40-49,male,,,#180/Hokkaido #46
+2522,Japan,"fever (37.4 ℃), cough",,0-10,male,,,#181/Hokkaido #47
+2523,Japan,"fever (40.3 ℃), Headache, malaise, joint pain",,30-39,male,,,#182/Hokkaido #48
+2525,Japan,"fever (39.9 ℃), cough",,0-10,male,,,#183/Hokkaido #49
+2526,Japan,"fever (39.3 ℃), cough",,80-89,male,,,#184/Hokkaido #50
+2527,Japan,"cough, fever (38.3 ℃), joint pain",,30-39,male,,,#185/Hokkaido #51
+2528,Japan,"Cough, fever (38 ℃)",,80-89,male,,,#186/Hokkaido #52
+2529,Japan,"Fever (37.4 ° C), malaise, sore throat",,60-69,male,,,#187/Hokkaido #53
+2530,Japan,"cough, sore throat",,0-10,female,,,#188/Hokkaido #54; nurse
+2531,Japan,Fever (38 ° C),,60-69,female,,,#189 - contact of male case from 22.02.2020
+2532,Japan,"Fever (38.1 ° C), cough, headache.",,60-69,male,,,#190 - contact of male case from 22.02.2020
+2791,China,pneumonitis,,70,female,Wuhan,,"Currently in isolation and treatment in the North Hospital of Tongchuan People's Hospital, the condition is stable, from Wuhan to Wangyi District, Tongchuan City"
+2802,China,pneumonitis,,52,female,,,"close contact of id 1011; Currently in isolation and treatment in the North Hospital of Tongchuan People's Hospital, the condition is stable"
+2857,China,pneumonitis,,44,male,Wuhan,,"26th. Currently in isolation and treatment at Xixiang County People's Hospital, the condition is stable, from Jingzhou to Wuhan on the 20th, and returned to Xixiang County from Wuhan on the 21st"
+2865,Nigeria,no serious symptoms,,,,"Milan, Italy",,"Case 1; Italian citizen who works in Nigeria and returned from Milan, Italy to Lagos, Nigeria on the 25th of February 2020"
+3112,China,"fatigue, fever, headache",discharged,,female,Wuhan,,
+3223,China,"fatigue, fever",discharged,44,female,Wuhan,,
+3290,China,fever,,58,female,Hong Kong,,
+3301,China,fever,,39,female,Wuhan,,
+3312,China,"dizziness, sore limbs",,21,female,Wuhan,,
+3335,China,"systemic weakness, runny nose, fever",discharged,39,female,Wuhan,,
+3336,,pneumonia,,50-59,female,Wuhan,,visited Wuhan and then traveled to Europe (16.01.2020-25.01.2020) before returning to Taiwan
+3446,China,fever,discharged,46,male,Wuhan,,
+3470,Sweden,similar to a respiratory infection,,,female,Germany,,
+3489,Lithuania,mild,,39,female,"Verona, Italy",,
+3494,Japan,"chills, headache, fatigue",,40-49,female,,,#192
+3495,Japan,fever,,20-29,male,,,#193
+3496,Japan,"cough, sore throat",,60-69,male,,,#194 return to home after disembarking the cruise ship Diamond Princess
+3497,Japan,"cough, phlegm, fever 37 degrees",,80-89,female,,,#195/Hokkaido 55
+3498,Japan,fever 39.0 ℃,,0-10,male,,,#196/Hokkaido 56
+3499,Japan,"fever (38.0 ℃), Fatigue, difficulty walking",,80-89,male,,,#197/Hokkaido 57
+3500,Japan,cough,,60-69,female,,,#198/Hokkaido 58
+3501,Japan,fever (38.0 ℃),,60-69,male,,,#199/Hokkaido 59
+3503,Japan,"chills,  fever (38 ℃), malaise",,60-69,male,,,#200/Hokkaido 60
+3504,Japan,"Sputum, cough symptoms, fever (37 ℃), cough, breathing difficulty",,60-69,female,,,#201/Hokkaido 61
+3505,Japan,"fever (37.0 ℃), fever (38.7 ℃)",,40-49,male,,,#202/Hokkaido 62
+3506,Japan,fever (37.5 ℃ ～ 38.0 ℃),,70-79,male,,,#203/Hokkaido 63
+3508,Japan,fever and cough,,60-69,female,,,#205/Hokkaido 65
+3509,Japan,fever,,60-69,male,,,#206/Hokkaido 66
+3511,Japan,fever (38 ° C),,60-69,male,,,#207
+3512,Japan,fever (38 ° C),,40-49,female,,,#208
+3515,Netherlands,mild,,,female,"Lombardy, Italy",,works at Amsterdam UMC  Hospital; at home in isolation in Diemne
+3516,Ecuador,fever,,,female,"Madrid, Spain",,
+3517,,sore throat,,27,female,,,
+3558,China,"cough, fever",,68,female,Wuhan,no,lives in Shenzhen. Visited Wuhan family during incubation period
+3569,China,fever,,64,male,,,travelled from Wuhan to Shenzhenbei (G1013) and then from Shenzhenbei to Hong Kong (G6543) by High-Speed Rail on January 19
+3591,Cambodia,"fever, runny nose",,60,male,Wuhan,,"Traveled from Wuhan w/3 fmaily members.""quarantined at Preah Sihanouk provincial hospital, and his condition is not considered serious"""
+3668,Japan,"fever, pneumonia, sore throat",discharged,40,male,Wuhan,no,
+3687,Netherlands,respiratory complaints,,49,female,,,From Nieuwendijk Brabant; initials protocols meant no test was undertaken
+3698,Sweden,mild,,,,Northern Italy,,Found as part of contact tracing of other cases
+3700,Iceland,mild,,60-69,male,"Verona, Italy",,
+3717,Canada,cough,,60-69,male,Iran,,
+3719,Russia,acute respiratory viral infection (ARVI),,29,male,Italy,,Fell ill while vacationing in Italy
+3750,United States,mild,,39,female,Iran,,Isolation at home
+3779,Japan,"cough, fever, sore throat",discharged,30,male,Wuhan,no,
+3839,Belgium,"fever, sneezing, coughing",,,,Italy,,
+3840,Belgium,"fever, sneezing, coughing",,,,Italy,,
+3841,Belgium,"fever, sneezing, coughing",,,,Italy,,
+3842,Belgium,"fever, sneezing, coughing",,,,Italy,,
+3843,Belgium,"fever, sneezing, coughing",,,,Italy,,
+3844,Belgium,"fever, sneezing, coughing",,,,Italy,,
+3863,Andorra,mild,,20,male,Milan,,
+3866,Czech Republic,"fever, chills, muscle, joint pain and cough",,55,female,Italy,,
+3867,Iceland,mild,,50-69,female,Italy,,
+3869,Iceland,mild,,50-69,female,Italy,,
+3870,Iceland,mild,,50-69,male,Austria,,
+3871,United States,mild,,,,,,NorthBay VacaValley Hospital health care worker
+3890,Nepal,"cough, fever, shortness of breath",discharged,32,male,Wuhan,,student is studying in Wuhan and returned to Nepal on 09.01.2020
+4001,Singapore,"cough, fever",discharged,66,male,Wuhan,,Case 1
+4112,Malaysia,"cough, fever",discharged,40,male,"from Wuhan , traveled to Johor from Singapore",,Singapore;Johor
+4223,Thailand,"cough, fever, myalgia",discharged,51,male,,,
+4890,Germany,"chills, fever, myalgia, sore throat",discharged,33,male,,no,Infection acquired locally from colleague from Shanghai attending a conference between 20.01.2020 - 21.01.2020
+4973,Romania,"asymptomatic, afebrile",,47,male,Italy,,Case 4; sat on an airplane with case ID#13450
+4980,Germany,"fever, cough",,35,,Itally,,"traveled to Milan, Italy"
+5001,China,"fever, sore throat",discharged,,female,Wuhan,,
+5020,China,cough,,37,female,,,daughter of 9th and 10th patients;
+5021,China,"cough, dyspnea",,75,male,,,admitted to Princess Margaret Hospital
+5051,Germany,flu-like symptoms,,,,"Codogno, Italy",,
+5134,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5136,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5137,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5138,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5139,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5140,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5141,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5142,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5143,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5144,Iceland,"cough, fever, bone pain",,,,Italy or Austria,,
+5227,Germany,cough,,33,female,Iran,,
+5326,Germany,cough,,64,male,,,Link to confirmed case in Baden Wuerttemberg
+5328,Germany,cough fever,,50,male,South Tyrol,,
+5426,South Africa,"fever, headache, malaise, sore throat, cough",,38,male,Italy,,Part of group of 10 travelers; self-silating since 03.03.2020
+5505,Bhutan,"fever, sore throat, cough, shortness of breath",,76,male,"Guwahati, India",,
+5913,China,fever,,44,female,Wuhan,,arrived in Bengbu from Wuhan
+5924,China,fever,,53,male,Hangzhou,,live in Hangzhou; drove from Hangzhou to Bengbu
+6891,China,pneumonia,,39,male,Wuhan,,admitted to Ankang Central Hospital
+6902,China,pneumonia,,41,female,Wuhan,,Worked in Wuhan for a long time
+6924,China,pneumonitis,,27,male,Wuhan,,worked in Wuhan for a long time
+7001,China,diarrhea,discharged,1,female,,,Contact with a confirmed case diagnosed on 03.02.2020
+7024,China,fever,,0.25,female,"Xiaogan City, Hubei",,Hainan Case 37
+7534,,"cough, fever, myalgia, rhinorrhea, sore throat",,52,female,Wuhan,no,Went to Wuhan for work in October. She worked at the same place as the first Taiwan case (announced on Jan 21) and returned home to Taiwan; 5th case
+7767,South Korea,"aching muscles, fever, pneumonia",,55,male,Wuhan,,Case 4
+8046,China,dry cough,,28,male,Wuhan,,arrived in Huainan from Wuhan; student in a university in Wuhan
+8112,France,"chills, cough, fatigue, fever",Discharged,30,female,Wuhan,,part of a couple (1/2)
+8223,France,"chills, conjunctivitis, cough, fever",Discharged,31,male,Wuhan,,part of a couple (2/2)
+8397,Canada,cough,,20-29,female,China,,
+8398,Canada,"cough, sore throat, body aches, fever",,60-69,female,Iran,,
+8403,Canada,"dry cough, runny nose, shortness of breath, headache",,30-39,female,Iran,,
+8404,Canada,"cough, body aches, chills",,50-59,female,Iran,,
+8405,Canada,cough,,60-69,male,,,Linked to case 10 in Ontario
+8471,Brazil,"fever, runny nose, body pain, diarrhea",,37,female,Italy,,Home isolation
+8889,Guyana,"severe, kidney failure and hypertension",death,52,female,"New York, New York, USA",,"fell ill after arriving in Guyana from New York, was taken to hospital due to uncontrollable diabetes and hypertension, was resuscitated successfully, but died 8 am 11.03.2020"
+9310,Philippines,cough,,59,female,None,,Linked to prior case (her husband)
+9394,Brazil,"fever, cough, nasal congestion",,42,female,Italy,,contact with previous patient in Rio de Janeiro diagnosed with COVID-19
+9395,Romania,fever,,49,male,"Rome, Italy",,self isolating since returning from Italy
+9890,China,fever,,59,female,,,
+9901,China,fever,,38,male,,,
+9912,China,fever,,37,male,,,
+9915,Ecuador,mild symptoms,,,,,,Link to the first case confirmed in Ecuador
+9923,China,fever,,49,male,,,
+9934,China,fever,,43,female,,,
+9945,China,fever,,39,female,,,
+9956,China,fever,,41,male,,,
+9967,China,fever,,67,female,,,
+9978,China,fever,,52,female,,,
+9989,China,fever,,31,male,,,
+10002,China,fever,,34,female,,,
+10013,China,fever,,24,female,,,
+10024,China,fever,,47,male,,,
+10035,China,fever,,16,male,,,
+10046,China,fever,,32,male,,,
+10057,China,fever,,32,female,,,
+10068,China,fever,,25,male,,,
+10079,China,fever,,52,female,,,
+10090,China,fever,,42,female,,,
+10101,China,fever,,51,male,,,
+10113,China,fever,,43,male,,,
+10129,United States,"cough, fever, shortness of breath",,60-69,,,,international travel
+10288,United States,"cough, fever, shortness of breath",,50-59,,,,
+10497,Australia,lethargy; dry cough,,50-59,male,USA,,VA Case 19; home isolation
+10515,Mongolia,fever,,,,,,Case 1; French citizen
+10519,Romania,"fever, nausea, digestive discomfort",,73,female,"Rimini, Italy",,Case 16;
+10520,Romania,aggressive pulmonary symptomatology,,60,male,,,Case 17
+10778,China,lesions on chest radiographs,stable,47,male,"Ziyang County, Ankang",,
+10923,Japan,"chills, cough, joint pain",,60-69,male,,no,"Bus driver, worked with tourists twice last month (08.01.2020-11.01.2020 and 12.01.2020-16.01.2020) covering the Tokyo-Osaka route"
+10934,Japan,"cough, fever, pneumonia",,40-49,female,Wuhan,no,"Arrived Tokyo 21 Jan, then -> Hokkaido 22 Jan"
+11072,China,diarrhea,,76,male,Indian Tours,India,
+11076,China,"Sore throat, headache, runny nose and tiredness",,41,male,Cathay Pacific CX542 from Hong Kong to Tokyo on February 19 and Cathay Pacific CX505 from Tokyo via Hong Kong on February 21;,,
+11077,China,"cough, fever",,44,male,"With three daughters, they took the Cathay Pacific CX225 from Hong Kong to Glasgow via London on February 22 and returned to Hong Kong from Glasgow via London on February 28.",,
+11111,Japan,difficulty breathing,dead,80-89,male,,,#99//Hokkaido #10
+11265,South Korea,fever; headache; phlegm,,28,male,,,
+11296,South Korea,fever; muscle aches; chills,,50-59,female,,,
+11297,South Korea,dry cough,,40-49,female,,,
+11298,South Korea,sore throat; headache,,40-49,female,,,
+11301,South Korea,chills; abdominal pain,,50-59,male,,,
+11304,South Korea,"sore throat, fever",,13-19,female,,,
+11306,South Korea,fever; cough; sore throat,,40-49,female,,,
+11308,South Korea,cough; sore throat; body aches,,50-59,male,,,
+11432,Canada,mild,,2,,,United States,
+11611,China,pneumonitis,,36,male,Wuhan,,
+11622,China,pneumonitis,,41,female,Wuhan,,From Shanghai to Xi'an via Wuhan
+11633,China,pneumonitis,,25,male,Wuhan,,
+11644,China,pneumonitis,,46,female,,,
+11654,United States,mild,,,,,,
+11655,China,pneumonitis,,50,male,,,husband of patient 1834
+11656,United States,mild,,,,,,
+11667,China,pneumonitis,,36,female,Xianyang City,,From Xianyang City in Hubei province to Pucheng county in Weinan city
+11678,China,pneumonitis,,36,male,Xianyang City,,From Xianyang City in Hubei province to Pucheng county in Weinan city
+11685,United States,"fever, cough, shortness of breath",,65-,,,,
+11689,China,pneumonitis,,32,female,,,been in contact with patient 1832 on 23.01.2020
+11700,China,pneumonitis,,64,male,,,been in contact with previous patients; mother-daughter relationship with patient 1834
+11711,China,pneumonitis,,70,male,,,history of being exposed to patients with fever in Wuhan
+11722,China,pneumonitis,,25,male,Wuhan,,"student studying at an university in Wuhan, From Wuhan to Hanyin county in Ankang city"
+12332,China,"cough, fever, sputum",stable,27,male,"Dongguan City, Guangdong Province",,contact with infected patients
+12438,Japan,sore throat,,30-39,female,Osaka,,#209
+12439,Japan,"fever, dcough",,60-69,male,,,"#210, Tokyo resident but Dx in Niigata"
+12440,Japan,"fever, sore throat",,70-79,male,Diamond Princess,,#211; 20 Feb left Diamond Princess; 28 Feb slight fever sort throat; 29 Feb text +
+12441,Japan,"fever, cough",,20-29,female,,,#212
+12442,Japan,"cough, nasal discharge, fever (37.2 ° C)",,90-99,female,,,#213/ Hokkaido #67
+12445,Japan,"cough, general malaise, joint muscle pain",,60-69,female,,,#214/Hokkaido #68
+12446,Japan,"fever, headache, and malaise, influenza",,30-39,female,,,#215/Hokkaido #69
+12448,Japan,"Fever, cough, vomiting.",,70-79,female,,,#217
+12449,Japan,"Cough, fever (38.0 ° C)",,60-69,male,,,"#218, taxi driver"
+12450,Japan,fever 37.8 ° C Dyspnea with pneumonia,,70-79,female,,,#219; became ill at Japan Rail station Ofuna and was transported
+12451,Japan,headache,,50-59,female,,,"#220; Close contact with female patients in their 70s announced on Friday, February 28; PCR tested due to contact"
+12452,Japan,"fever 37.5 ℃, diarrhea, nausea, dyspnea, cough, inappetance",,20-29,male,,,#221; grandaughter of #220
+12453,Japan,"fever (38.0 ° C), cough, malaise",,20-29,female,,,#222/ Hokkaido #71
+12454,Japan,fever (38.6 ℃),,40-49,male,,,#223/ Hokkaido #72
+12456,Japan,cough,,50-59,female,,,#224/Tokyo 38
+12457,Japan,"fever, difficulty breathing",,70-79,male,,,#225/ Tokyo 39
+12458,Japan,"malaise, fever, joint pain",,50-59,male,,,#226
+12459,Japan,"malaise, fever, joint pain, phlegm",,50-59,female,,,#227
+12460,Japan,"cough, malaise",,60-69,female,,,#228
+12461,Japan,fever (38.9℃),,80-89,female,,,#229
+12462,Japan,fever (38.2℃),,50-59,female,,,#230
+12463,Japan,fever,,60-69,female,,,#231
+12464,Japan,fever 38,,40-49,male,,,#232; poor quality report
+12467,Japan,"cough, phlegn,  38 ° C fever",,30-39,female,,,#233
+12468,Japan,fever 37,,40-49,male,,,#234
+12469,Japan,"fever (38.8 ℃), breathing difficulty",,60-69,male,,,#235/Hokkaido #73
+12470,Japan,"fever (37.6 ℃), fatigue, diarrhea",,60-69,male,,,#236/Hokkaido #74
+12471,Japan,"fever (38 ° C), nasal discharge/congestion, sore throat, malaise, joint pain",,50-59,male,,,#237/Hokkaido #75
+12472,Japan,"fever, joint pain",,40-49,female,Sapporo,,#238/Hokkaido #76 or 77
+12473,Japan,"fatigue, fever",,50-59,male,,,#239/Hokkaido #76 or 77
+12479,Japan,"fever, cough",,50-59,male,,,#240
+12480,Japan,fever,,40-49,female,,,#241
+12481,Japan,"38.7 degrees fever, headache, malaise",,30-39,female,,,#242
+12482,Japan,fever,,40-49,male,,,#243
+12483,Japan,Fever (37.5 ° C),,40-49,female,,,#257
+12484,Japan,"fever, headache, cough",,30-39,female,,,#244/Hokkaido #78 contact of Hokkaido #70
+12485,Japan,breathing difficulty,,60-69,female,,,#245/Hokkaido #79 contact of Hokkaido #70
+12486,Japan,"fever, cough",,60-69,female,,,#246
+12487,Japan,fever 38-39 C,,50-59,female,,,#247
+12489,Japan,fever 37-39 C,,40-49,male,,,#248
+12490,Japan,fever (37.6 - 38.3 degrees),,50-59,female,,,#249
+12491,Japan,"fever, cough",,50-59,female,,,#250/ Tokyo #40
+12492,Japan,fever,,50-59,male,,,#251
+12493,Japan,backache,,40-49,female,,,#252; took analgesic/amtipyretic (Sumiko:may have masked fever?)
+12494,Japan,fever,,70-79,female,,,#253/Aichi #33; same facility as #254
+12495,Japan,fever,,80-89,male,,,#254/Aichi #34; same facility as #253
+12496,Japan,"fever (38.5 degrees), cough, sore throat",,20-29,female,,,#255/Aichi #35
+12497,Japan,"Fever, cough, runny nose",,70-79,male,,,#256/Aichi #36
+12498,Japan,"fever (37.5-39 ° C), rash",,40-49,male,"Fukuoka, Kumamoto, Oita prefectures",,#258
+12500,Japan,"mild cough, phlegm",,40-49,female,,,#259/Kochi #4; close contact of Kochi #1
+12501,Japan,"sneezing, runny nose and slight fever",,60-69,male,,,#260/Kochi #5; father of Kochi #3
+12502,Japan,"sneezing, runny nose and slight fever",,60-69,female,,,#261/Kochi #6; mother of Kochi #3
+12503,Japan,runny nose,,0-10,male,,,#262/Kochi#7(?)/ close contact of Kochi #3 - elementary school
+12504,Japan,"fever  (37.0-5 ℃), malaise",,30-39,female,,,#263
+12505,Japan,fever  (37.2 ℃),,70-79,male,Los Angeles,,"#264 - Travel to Los Angeles, USA with his wife from Feb 20th to 26th, and return to Japan on 27th"
+12506,Japan,"chills, fever (38.5 ℃), nausea, diarrhea",,50-59,male,,,#265/Hokkaido #80
+12507,Japan,sore throat,,60-69,male,,,#266/Hokkaido #81/ Asahikawa #6
+12508,Japan,fever,,60-69,male,,,#267/Hokkaido #82/ Asahikawa #7
+12509,Japan,fatigue,,80-89,female,,,#268/Tokyo #41
+12511,Japan,fatigue,,30-39,female,,,#269/Tokyo #42
+12512,Japan,"fever, cough, phlegm",,50-59,male,,,#270/Tokyo #43
+12513,Japan,"fever, joint pain",,40-49,female,,,#271/Tokyo #44
+12514,Japan,"runny nose, sore throat, mile cough",,80-89,female,,,#272
+12515,Japan,fever,,60-69,female,,,#273
+12516,Japan,"fever, headache",,50-59,male,,,#274
+12517,Japan,"fever, cough",,70-79,female,,,#275
+12518,Japan,"fever, phlegm",,80-89,male,,,#276
+12519,Japan,"fever, cough",,80-89,male,,,#277
+12520,Japan,"fever, cough",,80-89,male,,,#278
+12522,Japan,Fever (37 ℃),,50-59,female,,,#279
+12523,Japan,"fever (38 ° C), cough",,50-59,male,,,#280
+12524,Japan,fever,,30-39,female,,,#281/Osaka #10
+12525,Japan,fever,,30-39,male,,,#282/Osaka #12
+12526,Japan,fever,,60-69,female,,,#283/Osaka #13
+12527,Japan,sneezing,,50-59,female,,,#284/Osaka #14
+12528,Japan,fever,,50-59,male,,,#285/Osaka #15
+12529,Japan,fever,,30-39,female,,,#286/Osaka #16
+12530,Japan,fever,,70-79,male,,,#287/Osaka #17
+12536,Japan,"fever (38), cough",,30-39,male,,,#289
+12537,Japan,"minor fatigue, sore throat",,50-59,female,,,asypmtomatic; Kyobashi Live House Arc concert
+12538,Japan,fever 37.5,,40-49,female,,,asypmtomatic
+12540,Japan,"Cough, headache, general malaise",,60-69,male,,,#290/Hokkaido #83
+12542,Japan,fever,,50-59,male,,,#292
+12544,Japan,fever,,60-69,male,,,#293
+12545,Japan,fever,,50-59,male,,,#294
+12546,Japan,cough,,0-10,female,,,#295/Tokyo #45
+12547,Japan,cough,,0-10,male,,,#296/Tokyo #46
+12548,Japan,cough,,30-39,female,,,#297/Tokyo #47
+12549,Japan,fever,,20-29,female,,,#298/Tokyo #48
+12550,Japan,fatigue,,70-79,female,,,#299/Tokyo #49
+12551,Japan,"Fever, cough, malaise",,90-99,male,,,#300/Tokyo #50
+12552,Japan,"Fever, cough",,70-79,male,,,#301/Tokyo #51
+12553,Japan,"Fever, cough Difficulty breathing",,80-89,male,,,#302/Tokyo #52
+12556,Japan,fever 37.2,,20-29,female,,,#303
+12558,Japan,fever (38.0),,30-39,male,,,#304/Aichi #43?? - close contact of Aichi #33 and 34
+12559,Japan,"fever (37.4-8), cough",,50-59,male,France via Germany,,#305/Aichi #50
+12560,Japan,cough,,40-49,female,,,#306/Aichi#39
+12561,Japan,"fever, pneumonia, malaise",,60-69,male,,,#307/Aichi #40
+12562,Japan,"fever, cough, general pain",,60-69,female,,,#308/Aichi #41
+12563,Japan,fever,,40-49,female,,,#309/Aichi #42; contact with Aichi #40
+12564,Japan,fever,,80-89,female,,,#310
+12565,Japan,fever,,80-89,male,,,#311
+12567,Japan,fever,,50-59,female,,,#312
+12569,Japan,"Fever (37.4 degrees), sore throat",,30-39,female,,,#313
+12570,Japan,"Fever, cough",,80-89,male,,,#314/Hokkaido #84; close contact of Hokkaido #79
+12571,Japan,"Cough, headache, general malaise, sore throat",,20-29,female,,,#315/Hokkaido #85; close contact of Hokkaido #79
+12572,Japan,"Fever, sore throat",,30-39,male,,,#316/Hokkaido #86
+12573,Japan,fever (38 ℃),,70-79,male,,,#317/Hokkaido #87
+12574,Japan,fever (37.8 ℃),,,female,,,#318/Hokkaido #88
+12575,Japan,fever (38 ℃),,60-69,male,,,#319/Hokkaido #89
+12576,Japan,"phlegm, malaise",,30-39,male,,,#320/Hokkaido #90
+12578,Japan,"fever, cough",,70-79,male,,,#321/Tokyo #53
+12579,Japan,"fever, cough",,30-39,female,,,#322/Tokyo #54
+12580,Japan,"fever, cough",,40-49,male,,,#323/Tokyo #55
+12581,Japan,"fever, cough, shortness of breath",,90-99,male,,,#324/Tokyo #56
+12582,Japan,"fever, cough",,50-59,female,,,#325/Tokyo #57
+12584,Japan,"fever 38.0, cough, fatigue",,50-59,male,,,#326/Chiba #17
+12585,Japan,fever 40.0,,50-59,male,,,#327/Chiba #18
+12586,Japan,"fever (39), inapatence",,60-69,male,,,#328
+12587,Japan,"malaise, dyspnea, cough",,80-89,male,,,#329
+12592,Japan,fever 38,,50-59,female,,,#331
+12887,China,"chills, cough, fever",stable,67,female,,,"Case 52; mother of case 53; had dinner with the patients of three confirmed cases (the 46th, 48th and 49th case); younger sister-in-law of the 75-year-old male patient of the 46th case"
+12998,China,fever,stable,37,male,,,"Case 53; son of case 52; had dinner with the patients of three confirmed cases (the 46th, 48th and 49th case)"
+13331,China,"cough, fever",died,39,male,Wuhan,no,
+13688,,"myalgia, rhinorrhea",,50,male,None,,6th case - husband of 5th case
+14442,Philippines,"cough, sore throat",died,44,male,Wuhan via Hong Kong,,Travelled with other Philippines case; death reported https://www.bbc.com/news/world-asia-51345855; San Lazaro Hospital
+15486,France,flu-like symptoms,,48,male,Wuhan via Shanghai,,in Wuhan for a business trip and returned on 22.01.2020
+16485,United States,mild,,18-60,male,,,"Non-resident, visiting from out-of-state"
+16486,United States,mild,,18-60,male,,,"Non-resident, visiting from out-of-state"
+17009,Saint Vincent and the Grenadines,"mild, cough and fever",,30-35,female,United Kingdom,,
+17017,Reunion,mild,,80,male,"USA, Paris",,"travelled through Paris on the return trip to Reunion from USA, hospitalized at CHU Nord"
+17027,Puerto Rico,"cough, fever, difficulty breathing",,71,male,,,
+18094,United States,mild,,,female,,,
+18330,Japan,"cough, fever, malaise",treated in an intensive care unit (14.02.2020),50-59,male,,,severe symptoms and are treated in an intensive care unit
+18997,China,pneumonia,,,,,,
+19108,China,fever,,42,female,Wuhan,,transportation drivers often travel between Wuhan and Chongqing; 19.01.2020 drove from Wuhan to Fuyang
+19330,China,fever,,59,female,Wuhan,,arrived in Huainan from Wuhan
+19552,China,pneumonia,,,,,,
+19885,China,cough,,38,female,Wuhan,,drove from Wuhan to Chizhou
+19997,China,fever,,45,male,Wuhan,,drove back to Bengbu from Wuhan
+20330,China,fever,,33,female,Wuhan,,arrived in Beijing
+20552,China,fever,,37,male,Wuhan,,business trip
+20663,China,fever,,39,male,Wuhan,,business trip
+20774,China,respiratory symptoms,,32,female,Wuhan,,travel
+20885,China,fever,,45,male,Wuhan,,
+20996,China,fever,,45,male,Wuhan,,
+21108,China,"fever, respiratory symptoms",,18,female,Wuhan,,study trip
+21219,China,"fever, respiratory symptoms",,56,female,Wuhan,,business trip
+21330,China,fever,,42,male,Wuhan,,"11 & 18.01.2020 visit Wuhan, 19.01.2020 back to Beijing"
+21441,China,fever,,33,female,Wuhan,,
+24609,South Korea,cough,,33,male,Wuhan,,Case 5
+24964,China,fever,,72,male,Wuhan,,admitted to  Queen Mary Hospital
+24975,China,fever,,73,female,Wuhan,,admitted to  Queen Mary Hospital
+27741,Russia,"acute respiratory viral infection, fever",,,,China,,"Chinese citizen, condition is stable, without temperature and clinical manifestations"
+27752,Russia,"acute respiratory viral infection, fever",,,,China,,"Chinese citizen, condition is stable, without temperature and clinical manifestations"
+27997,China,"discomfort, fever",,43,male,Wuhan,,
+28108,China,"cough, fever, headache, muscular soreness, weak",,24,male,Wuhan,,"work in Wuhan; With 14 days before symptoms, he visited farmers market in Wuhan and contacted people with fever; 19.01.2020 left Wuhan, 20.01.2020 arrived in Baiyin city"
+28219,China,"cough, dizziness",,40,male,,,
+28887,China,fever,,33,male,Wuhan,,
+29108,China,"cough, fatigue, fever, weakness",,66,male,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+29219,China,"cough, fever, weakness",,65,female,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+29330,China,"cough, diarrhea, fever, rhinorrhoea, sneezing",,36,male,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+29552,China,"anhelation, cough, fever, pleural effusion, weakness",,63,female,,,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+29663,China,"diarrhea, fever, nasal congestion, pleuritic chest pain, sore throat",,37,female,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+31663,China,cough,,66,female,Wuhan,,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+33329,China,fever,death,73,female,,,family cluster?
+34094,Canada,mild,,40-49,male,United Kingdom,,
+34219,China,"cough, fever",,63,male,,,"recent travel history, whereabouts and dates unclear"
+34330,China,"cough, fever",,62,female,Wuhan,,
+34428,Brazil,"fever, cough, running nose",discharged,61,male,Italy,na,
+34429,Brazil,"fever, cough, sore throat, mialgia, headache",discharged,32,male,Italy,na,
+34432,Brazil,Asymptomatic,,13,female,Italy and Portugal,na,SP is asymptomatic and returned from italy
+34433,Brazil,Contact of hCoV-19/Brazil/SPBR-01/2020,,37,female,Contact of hCoV-19/Brazil/SPBR-01/2020,na,Contact of hCoV-19/Brazil/SPBR-01/2020
+34434,Brazil,Contact of hCoV-19/Brazil/SPBR-01/2020,,69,female,Contact of hCoV-19/Brazil/SPBR-01/2020,na,Contact of hCoV-19/Brazil/SPBR-01/2020
+34435,Brazil,"fever, cough, nasal congestion, conjuntivitis",,27,female,Italy,na,
+34441,China,discomfort,discharge,29,male,"Ezhou City, Hubei",,arrived in Fangchenggang from Ezhou City
+34442,China,fever,,49,male,,,"recent travel history, whereabouts and dates unclear"
+34446,Brazil,acute respiratory syndrome,,52,female,"England, Switzerland",na,
+34447,Brazil,asymptomatic,,42,female,,na,contacted with confirmed case BA2
+34455,Brazil,"fever, cough, nasal congestion",,42,female,Italy,na,travelled with another confirmed COVID-19 from Rio
+34456,Brazil,"Rhinorrhea, pain and unwellness",,47,female,Italy,na,
+34457,Brazil,"Rhinorrhea, cough and fever",,42,male,Italy,na,
+34458,Brazil,"fever, cough and mialgia, between others",,27,male,"Europa, entre os dias 3 e 5 de mar√ßo, com passagem por pa√≠ses como It√°lia, Portugal, Espanha, Su√≠√ßa, Holanda, Israel, Egito e Gr√©cia",na,
+34459,Brazil,"fever, cough and mialgia, between others",,42,male,"Europa, entre os dias 3 e 5 de mar√ßo, com passagem por pa√≠ses como It√°lia, Portugal, Espanha, Su√≠√ßa, Holanda, Israel, Egito e Gr√©cia",na,
+34460,Brazil,"fever, cough and mialgia, between others",,70,male,"Europa, entre os dias 3 e 5 de mar√ßo, com passagem por pa√≠ses como It√°lia, Portugal, Espanha, Su√≠√ßa, Holanda, Israel, Egito e Gr√©cia",na,
+34461,Brazil,"fever, cough and mialgia, between others",,56,female,"Europa, entre os dias 3 e 5 de mar√ßo, com passagem por pa√≠ses como It√°lia, Portugal, Espanha, Su√≠√ßa, Holanda, Israel, Egito e Gr√©cia",na,
+34462,Brazil,"fever, cough and mialgia, between others",,61,female,"Europa, entre os dias 3 e 5 de mar√ßo, com passagem por pa√≠ses como It√°lia, Portugal, Espanha, Su√≠√ßa, Holanda, Israel, Egito e Gr√©cia",na,
+34463,Brazil,"fever, cough",,60,male,"Italy, Milan",na,
+34481,Brazil,"cough, fever",,72,male,"Participated in conference in Rio, infected wife",na,
+34482,Brazil,"cough, fever",,68,female,Wife from infected case RJ10,na,
+34486,Brazil,"cough, fever, respiratory problems",,66,female,"Travelled to Rome, Italy, Married to PE2",na,
+34488,Brazil,"cough, fever, respiratory problems",,72,male,"Travelled to Rome, Italy, Married to PE1",na,
+34489,Brazil,"myalgia, headache, fever",,,,,na,
+34511,Brazil,"fever, cough, body ache, mialgia",,54,female,Italy (Bergamo),na,
+34513,Brazil,"fever, cough, coriza, sore throat, headache, general weakness",,19,female,Italy,na,
+34514,Brazil,"fever, respiratory problems (lungs)",,33,female,Patient works in hospital in SP and had contact with suspected case,na,
+34518,Brazil,"fever, cough and sore throat",,38,female,Israel,na,
+34522,Brazil,oligosymptomatic,,28,female,"Italy, France, Belgium",na,
+34553,China,fever,,46,male,,,contact people from Wuhan
+34562,Brazil,"fever, body ache, sore throat, headache",,57,male,Cruise in Africa and Europe,na,
+34582,Brazil,asymptomatic,,31,female,,na,
+34690,Brazil,"fever, myalgia, headache",,44,male,Traveled to SP and SC,na,
+34710,Brazil,"cough, fever",,69,male,France,na,
+34733,Brazil,asymptomatic,,69,female,Italy,na,
+34738,Brazil,"cough, fever",,,male,"Lives in UK, traveled to ES and SP",na,
+34775,China,"cough, fever",,34,male,Wuhan,,worker in Wuhan; arrived in Guilin from Wuhan
+34822,Brazil,"fever, cough, myalgia",,69,male,,na,contact of a positve case
+34886,China,fever,,41,male,Wuhan,,drove to Guilin from Wuhan
+34996,China,"fever, weak",,72,female,Wuhan,,arrived in Beihai from Wuhan
+35107,China,"cough, fever, muscular soreness",,20,female,Wuhan,,student in Wuhan; arrived in Beihai from Wuhan
+35218,China,"cough, fever",,54,male,Wuhan,,work in Wuhan; arrived in Beihai from Wuhan
+35329,China,fever,,33,female,Wuhan,,arrived in Baise from Wuhan; visited a private clinic in Wuhan for treatment because of her fever on 19.01.2020
+35440,China,"chest distress, cough, expectoration, muscular soreness",,49,female,Wuhan,,arrived in Hechi from Wuhan by train
+35450,Switzerland,mild,,23,male,"Milan, Italy",,"Mild symptoms, but in hospital, in contact with first patient from Basel"
+35451,Switzerland,mild,,48,female,,,"Mother of man in Basel who tested positive, quarantined in hospital depsite mild symptoms"
+35548,Switzerland,"dry cough, sore throat",,21,female,"Milan, Italy",,Hospitalized at Biel Hospital Center
+35549,Switzerland,mild,,,male,,,"Young (age not specified), in contact with first patient from Biel"
+35550,Switzerland,cough,,22,male,"Milan, Italy",,"In quarantine with girlfriend in Bern, but from Neuchatel Canton, attends BFB business school in Biel, tested at Interlaken hospital"
+35551,South Korea,fever,discharge,55,male,Wuhan,,Case 2
+35623,Switzerland,mild,,30-39,male,"Lombardy, Italy",,
+35624,Switzerland,mild,,,male,,,"in contact with first patient in Fribourg, young (age not given)"
+35625,Switzerland,mild,,,,,,
+35626,Switzerland,severe,,,,"Mulhouse, France",,"in hospital (HFR), related to religious assembly in Mulhouse, France"
+35713,Switzerland,mild,,,female,"Lombardy, Italy",,Student atAlpenquai Cantonal School
+35734,Switzerland,"mild, runny nose",,,female,,,
+35801,Switzerland,mild,,47,female,,,"doctor, came in contact with ill person from Saint Gallen"
+35885,China,"cough, headache",,33,male,Wuhan,,work on software development and maintenance in a hospital in Wuhan during 13.01.2020-17.01.2020
+35996,China,"fever, sneeze",,2,female,Wuhan,,arrived in Nanning from Wuhan by plane and then took a bus to Hechi
+36089,Switzerland,mild,,,male,,,"contracted at private event in Switzerland, isolated at Zurich hospital"
+36090,Switzerland,mild,,,female,,,"in contact with initial Zug patient, home quarantine"
+36091,Switzerland,mild,,,male,Asia,,"travelled through various infected areas in Asia, home quarantine"
+36103,Switzerland,mild,,,,,,quarantined at home
+36104,Switzerland,mild,,,,,,quarantined at home
+36105,Switzerland,mild,,,,,,quarantined at home
+36106,Switzerland,mild,,,,,,quarantined at home
+36107,China,"cough, muscular stiffness, weak",,62,male,Thailand,,
+36109,Switzerland,mild,,,,,,quarantined at home
+36110,Switzerland,mild,,,,,,quarantined at home
+36111,Switzerland,mild,,,,,,quarantined at home
+36112,Switzerland,mild,,,,,,quarantined at home
+36113,Switzerland,mild,,,,,,quarantined at home
+36114,Switzerland,mild,,,,,,quarantined at home
+36115,Switzerland,mild,,,,,,quarantined at home
+36130,China,"cough, fever",,39,male,,,admitted to Princess Margaret Hospital
+36218,China,fever,,61,male,Wuhan,,arrived in Yulin from Wuhan
+36329,China,discomfort,,20,male,Wuhan,,student in a college in Wuhan
+36440,China,fever,,51,male,Wuhan,,
+36529,China,"cough, fever",,28,female,,,contact with someone with travel history from Wuhan
+36540,China,"fever, pharyngeal discomfort",,37,male,Went to Thailand; had dinner with firedns prior to trip,,unclear if Thailand trip is epidemiologically relevant
+36551,China,fever,,50,female,Changsha,,"have meals with people from Wuhan in the same table, study trip"
+36552,China,"chills, headache, fever",,51,female,Wuhan,,
+36563,China,"fever, sore throat, sputum",,45,female,,,
+36574,China,"cough, fever",,27,female,,,
+36585,China,fever,,32,male,Wuhan,,
+36596,China,physical discomfort,,35,male,Wuhan,,
+36996,China,"cough, fever",,72,male,Wuhan,,
+37107,China,"chest distress, dyspnea",,80,male,Wuhan,,lived in Wuhan for two months and then went back to Cangzhou; died on 22.01.2020
+37218,China,"cough, expectoration, fever",,49,male,Wuhan,,
+37329,China,"cough, fatigue, fever, sputum",,69,male,Wuhan,,Heilongjiang as a city seems unlikely?
+37551,China,"chest tightness, dyspnea, fever",,66,male,Wuhan,,
+37985,China,discomfort,,31,male,Wuhan,,Quarantined 29.01.2020
+37997,China,weakness,,66,female,,,No clear history of exposure
+38019,China,fever,,32,male,"Beijing, Zhuzhou, Hunan, and Chengdu, Sichuan",,
+38030,China,fever; cough,,60,male,,,No clear history of exposure
+38252,China,fever,,56,male,Wuhan,,Wuhan;Shenzhen
+38263,China,fever,,62,female,Wuhan,no,married 8th HK case
+38297,China,"cough, fever",,57,female,Wuhan,,
+38515,China,"chest tightness, fever, nausea",,40,male,,,
+38574,China,fever,,37,male,Wuhan,,
+38674,China,"cough, fever",,56,male,Wuhan,,
+38685,China,"cough, fever",,50,male,Wuhan,,work in Wuhan in business of live poultry
+38785,China,"fever, weak",,27,male,Wuhan,,businessman in Wuhan
+38796,China,"cough, fever",,40,female,Wuhan,,
+38835,South Korea,"cough, fever",,28,male,Wuhan via Qingdao,,Case 7; admitted to Seoul Medical Center
+38836,South Korea,"cough, fever, muscle ache",,62,female,Wuhan,,Case 8
+38840,Japan,"anorexia, fatigue",death,80-89,female,,,Case 27;
+38847,Japan,"cough, runny nose",,20-29,female,Osaka to Tokyo; on tour bus for chinese tourists,no,13th case; tour guide; on the same bus as infected driver
+38848,Japan,asymptomatic,,30-39,male,Wuhan,,Asymp case 3
+38849,Japan,asymptomatic,,50-59,male,Wuhan,,Asymp case 4
+38850,Japan,"cough, fever",,40-49,male,Wuhan,no,14th case - contact with case 15 (was evacuee asyptomatic case #2)
+38851,Japan,"cough, fever",,40-49,male,Wuhan,,15th case; Chinese national (was asymptomatic evacuss case #3)
+38852,Japan,asymptomatic,,30-39,male,Wuhan,,Asymp case 5
+38854,United States,runny nose,,20-29,male,Wuhan,no,"UMASS Boston Student, isolated in home, did not require hospitalization"
+38862,Singapore,fever,,47,female,Wuhan,,Case 17; is this the same as Case 15?
+38865,China,"cough, fever",,80,male,Yokohama,no,"Princess Margaret Hospital, Mainland (10 Jan), then flight from Hong Kong to Tokyo, Japan on January 17 and board a cruise at Yokohama on January 20. The cruise arrived Kai Tak Cruise Terminal in Hong Kong on January 25."
+38875,China,"cough, fever",,42,female,,,
+38908,China,"cough, fever",,33,male,Wuhan,,
+38919,China,"cough, fever, soreness",,40,male,Hubei,,Xiantao City resident
+38930,China,pharynx,,50,female,Wuhan,,
+38941,China,muscular soreness,,42,male,Wuhan,,
+38964,China,"cough, sore throat",,52,female,Wuhan,,
+38986,China,fever,,28,male,Wuhan,,
+38997,China,fever,,22,male,Wuhan,,medical trip
+39008,China,fever,,32,female,Hangzhou,,business trip; met with fever patients (id 1011) from Wuhan in the same room
+39019,China,fever,,42,male,Wuhan,,business trip
+39052,China,fever,,38,male,Rushan City,no,contact with person with pneumonia
+39064,China,fever,,62,female,Xiaogan,,wife
+39075,China,fever,,65,male,Xiaogan,,husband
+39105,China,"cough, fever",,26,male,Guangzhou,,family cluster?
+39106,China,"cough, fever, sputum",,44,male,"Taizhou, Jiangsu",,Unclear when hospitalized; family cluster?
+39107,China,"cough, fever",,36,male,Wuhan via Xi'an,,Unclear when hospitalized
+39109,China,"cough, fever",,38,female,,,family cluster?
+39110,China,"cough, sputum",,64,female,"Yichang City, Hubei",,family cluster?
+39111,China,"cough, sore throat, sputum",,59,male,Wuhan,,family cluster?
+39112,China,fever,,39,female,Wuhan,,family cluster?
+39113,China,"chills, fatigue",,46,female,,,
+39143,China,cough,,72,female,,,"exposure to patient 13 in Hong Kong, mother"
+39185,China,fever; dry cough; fatigue,,47,male,,,"Contact with prior case, diagnosed on 28.01.2020"
+39219,China,"fatigue, fever, weakness",,56,female,Wuhan,,normal temperature for 6 days and respiratory tract symptoms have improved. Two additional tests were negative for the virus.
+39230,China,"cough, fever, runny nose",,35,male,Wuhan,,"shanghai resident, travel history"
+39441,China,"fever, headache",,,male,Wuhan,,
+39452,China,fever,,28,female,Wuhan,,
+39463,China,fever,,31,male,Wuhan,,
+39474,China,"cough, dyspnea, fever",,50,male,Wuhan,,
+39485,China,fever,,48,male,Wuhan,,
+39496,China,"fatigue, fever",,36,male,Wuhan,,
+39519,China,"chills, fever, muscle aches, other symptoms",,37,male,Wuhan,,Wuhan to Chengdu
+39530,China,"fatigue, muscle aches, sore throat",,19,male,Wuhan,,Wuhan to Chengdu
+39541,China,"cough, fever",,60,female,Wuhan,,tourism
+39552,China,"cough, fever",,58,male,Wuhan,,business trip
+39585,China,fever,,29,female,Wuhan,,
+39619,China,"fever, sore muscle, weakness",,47,male,Wuhan,,study trip
+39630,China,"fever, sore muscle, weakness",,52,male,Wuhan,,work in Wuhan for long time
+39641,China,"fatigue, fever",,51,male,Wuhan,,geotagged Kunming
+39652,China,"cough, fever",,53,male,Wuhan,,
+39815,China,fever,,42,female,Wuhan,,
+39816,China,fever,,66,female,,,
+39817,China,"cough, fever",,36,female,,,
+39819,China,fever,,37,female,,,
+39820,China,"cough, fever",,46,female,,,
+39821,China,fever,,43,male,Malaysia,,
+39840,Vietnam,respiratory symptoms,discharge,73,male,Wuhan,,two hours airport Wuhan
+39907,China,fever,,46,male,Wuhan,,
+39909,China,fever,,33,female,Wuhan,,
+39911,China,chest tightness,,42,female,Wuhan,,"family cluster (husband, wife)"
+39951,,"cough, shortness of breath",death,60-69,male,,,
+39952,Vietnam,"cough, fever",discharge,25,female,,,receptionist in hotel where confirmed cases of chinese residents stayed
+39976,Malaysia,"cough, fever",,41,male,Singapore,,conference in singapore with many chinese
+39977,China,"cough, fever, runny nose",,59,male,Guangzhou,,travel to guangzhou; Earl Grey General Hospital - specific lat long unclear
+39978,China,"cough, fever, runny nose",,29,female,no,,visit home of 8th confirmed patient from Macao for 4h
+39989,China,"cough, fever",,64,female,no,,no visit to mainland recently
+39990,Belgium,no symptoms,,54,male,Wuhan,,
+40020,China,fever,,29,male,,,
+40021,China,fever,,69,female,,,
+40022,China,"cough, fever",,9,male,Malaysia,,
+40023,China,fever,,61,male,Wuhan,,
+40078,China,fever,,33,male,"Xiangyang, Hubei",,
+40093,China,"cough, diarrhoea, runny nose",,25,male,,,no travel history; admitted to Prince of Wales Hospital
+40112,China,"cough, fever, eventually showed acute left heart failure and acute coronary syndrome",,66,female,Baodi district department store in Tianjin,,
+40113,China,"cough, high fever, myalgia",,51,female,,,admitted to Baodi People's Hospital
+40114,China,"fever, myalgia",,65,male,,,admitted to Baodi People's Hospital
+40209,China,"cough, fever, shortness of breath",,64,female,,,no travel history; admitted to  Queen Elizabeth Hospital (QEH)
+40285,South Korea,"cough, fever, runny nose",discharge,42,female,Thailand,,Case 16
+40307,China,fatigue,,69,male,,,Spouse of confirmed case diagnosed 01.02.2020
+40383,China,fever;sore throat; fatigue; diarrhea,,54,female,,,
+40384,China,fever; fatigue,,62,male,,,
+40386,China,fever; sore throat;fatigue;vomiting,,60,female,Wuhan,,Was placed under observation 24.01.2020
+40387,China,cough,,45,female,,,
+40507,Singapore,"fever, sore throat",discharge,28,female,no,,Case 19; worked at health product shop with many chinese tourists
+40577,China,fever,,52,female,Zhengzhou Henan,,
+40635,China,"chest tightness, fever",,55,female,Wuhan,,
+40636,China,"fever, joint pain, muscle soreness",,48,female,Beijing,,
+40637,China,fever,,43,female,,,Epidemiological link to other case
+40638,China,fever,,35,male,,,
+40639,China,fever,,29,male,Vietnam,,Contact with travelers to Wuhan 21.01.2020
+40640,China,"cough, fever",,51,male,Wuhan - Hefei - Lujiang,,
+40642,China,"chills, fever",,35,male,,,Epidemiological link to other case
+40643,China,"cough, fever",,28,female,Luzhou,,
+40644,China,"chest pain, nasal congestion",,78,female,,,
+40645,China,"cough, muscle soreness, sweating",,38,female,,,Epidemiological link to other case
+40646,China,"cough, fever",,36,male,,,"Meal with visitor from Tianmen City, Hubei, 19.01.2020"
+40817,China,pneumonitis,,,,,,
+40923,United States,"cough, fever, shortness of breath",,,,Beijing,,
+40999,Singapore,fever,,41,male,,,Case 29
+41063,Vietnam,cough,discharge,49,female,"Wuhan City, Hubei Province",,mother of another case
+41104,China,fever,,22,female,Wuhan to Xuanwei,,
+41174,Vietnam,"cough, fever",discharge,16,female,"Wuhan City, Hubei Province",,younger sister of another patient
+41263,China,fever,,25,female,Wuhan,,took a train from Wuhan to Fuyang; there were multiple patients in the same train
+41319,China,fever,,43,male,Macheng,,"took a train from Wuhan to Macheng (in Hubei province), then took another train from Macheng to Fuyang"
+41330,China,"fever, sore throat",,22,male,Wuhan,working in another market in Wuhan,arrived in Fuyang from Wuhan
+41352,China,"fever, muscular soreness, rigor",,51,male,Wuhan,,20.01.2020 arrived in Bozhou from Wuhan
+41363,China,"chills, diarrhea, dyspnea, headache, lack of energy, muscle pain",,38,male,Wuhan,,"19.01.2020 left Wuhan, 20.01.2020 arrived in Bozhou"
+41374,China,"cough, fever",,59,male,Wuhan,,"lived near a railway station in Wuhan;  left Wuhan by train, arrived in Fuyang, then took a bus to Bozhou"
+41385,China,"cough, fatigue, fever",,60,male,Wuhan,,"hypertention and diabetes; left Wuhan by train, arrived in Fuyang, then took a bus to Bozhou"
+41397,China,fever,,35,male,Xiangtan,,stopped for a rest at a service area on the border between hunan province and hubei province. 12.01.2020 drove from Xiangtan city in Hunan province and arrived in Bozhou
+41408,China,"fever, pharyngalgia",,25,female,Wuhan,,drove from Wuhan to Bozhou
+41580,China,pneumonitis,,,,,,
+41609,China,pneumonitis,,53,female,,,
+41664,China,"fever, myalgia, shortness of breath",,60,male,,,no travel history; admitted to Tseung Kwan O Hospital (TKOH)
+41889,China,"cough, fever",,64,female,,,
+41890,China,fever,,35,female,,,
+41891,China,fever,,75,male,,,
+41892,China,fever,,61,female,"Xiaogan City, Huber province",,
+41893,Japan,"cough, fever, pneumonia, respiratory distress",,50-59,female,Wuhan,,Patient #18 (was evacuee asymptomatic case 5)
+41894,Japan,"fever, runny nose",,30-39,female,Wuhan,,Patient #17
+41900,Japan,"cough, fever",,40-49,male,Wuhan,,Case #20 (was asymptomatic csae 15?)
+41901,Japan,fever,,20-29,male,,,Case #21 Worked as a tour guide for Chinese tourists (some are from Hubei) (was asymptomaic case #16?)
+41902,,fever,,50-59,female,Italy,,"spouse of case (1/2); on the way to Italy, they stopped in Hong Kong"
+41903,,fever,,50-59,male,Italy,,"spouse of case (2/2); on the way to Italy, they stopped in Hong Kong"
+41904,,"chills, fever, runny nose, sore throat, sneezing",,40-49,female,Macau,,
+41914,,"cough, respiratory problems",,20-29,female,Taiwan,,
+42174,Italy,"eye irritation, fever",discharge,29,male,Wuhan,,conducting research in China
+42396,Vietnam,"fever, headache, runny nose",discharge,55,female,,,"Case 14; neighbor of another case who she visited on 28.01.2020, on February 4 and February 6, aunt, mother and sister also had positive results for nCoV."
+42507,Vietnam,"cough, runny nose",discharge,0.25,female,,,Case 15; 3-months old; grandson of ID#: 6150
+42542,China,"nausea, vomiting",,68,male,,,
+42555,Japan,"fever, headache",,60-60,female,"Hawaii, USA",,wife of a 60s male who was confirmed infected on the 14th
+42556,Japan,fever,,60-69,male,,,"acquaintance of woman that travelled to Hawaii, USA"
+42557,Japan,"fever, full body slump",,60-69,male,,,acquaintance of a patient whose infection was confirmed on the 16th.
+42558,Japan,"cough, fever",,60-69,male,,,Visited a couple in Nagoya who recently tested positive
+42618,Vietnam,transient fatigue,discharge,50,male,,,Case 16; father of a patient; mother and sister are also cases
+42763,China,pneumonitis,,64,female,,,in isolation and treatment at the Second Affiliated Hospital of Xi'an Jiaotong University
+42785,China,pneumonia,,28,male,Wuhan,,worked in Wuhan for long time; admitted to Ankang Central Hospital
+42796,China,pneumonia,,41,male,Wuhan,,admitted to Ankang Central Hospital
+42872,Japan,"cough, fever",,50-59,male,Wuhan,no,Case #25 eeturned on January 29 on a charter flight (first flight) from Wuhan
+42940,China,fever,,49,male,,,contact with friends from Wuhan
+43001,China,"fever, cough",,42,female,Thailand,,Traveled with other confirmed patient 05.02.2020
+43002,China,"fever, cough",,26,female,Thailand,,Traveled with other confirmed patient 05.02.2020
+43003,China,"fever, dry throat, sore throat",,37,male,"Shiyan City, Hubei; Qingyuan County, Guangdong",,
+43004,China,fever; runny nose,,24,male,Wuhan,,
+43006,China,dry throat; sore throat; fatigue,,54,female,Thailand,,Travel with case confirmed on 03.02.2020; identified as close contact on 04.02.2020 and screend and admitted
+43008,China,headache; dry mouth,,29,female,Thailand,,Travel with case confirmed on 03.02.2020; identified as close contact on 04.02.2020 and screend and admitted
+43009,China,fever; dry mouth; throat discomfort,,38,female,Thailand,,Travel with case confirmed on 03.02.2020; identified as close contact on 04.02.2020 and screend and admitted
+43010,China,fever,,29,male,,,Met with confirmed cases 26.01.2020 - 31.01.2020 confirmed on 03.02.2020. Went for isolation on 31.01.2020
+43015,China,pharyngeal discomfort,,55,female,,,Close contact of confirmed case from 31.01.2020
+43016,China,fever,,27,female,,,Spouse of confirmed case from 07.02.2020
+43017,China,cough; throat discomfort,,46,female,,,Identified as close contact of case confirmed 02.02.2020
+43018,China,"cough, discomfort, fever, other symptoms",,65,female,Wuhan,,Hainan Case 4
+43020,China,Pharyngeal dryness,,33,female,"Shapingba District, Chongqing City",,Contact with confirmed case from another province; under observation 04.02.2020
+43021,China,cough; sputum; fever,,23,male,Wuhan,,
+43022,China,fever,,27,female,Yinchuan,,Contact with confirmed cases in Yinchuan; isolated on 06.02.2020
+43023,China,dry throat; dry cough,,53,female,,,Lives in same unit as confirmed case 01.02.2020
+43024,China,"chest pain, cough",,34,female,,,
+43026,China,"cough, chest tightness, dry mouth",,58,female,,,Spouse of confirmed case
+43027,China,"cough, fever",,57,male,Beijing,,Stayed with confirmed case in Beijing
+43262,Japan,"cough, fever",,30-39,female,Wuhan,no,entered Japan from Wuhan on 18.01.2020
+43266,China,fever; cough; fatigue; nausea,,60,male,Guangzhou,,
+43273,Malaysia,asymptomatic,,65,female,Singapore,,related to 66 year old patient from Singapore (history of travel to Guangzhou)
+43286,Malaysia,asymptomatic,,2,male,Singapore,,"related to 66 year old patient from Singapore (history of travel to Guangzhou), Guangzhou to Singapore (20.01.2020) to Malaysia (22.01.2020)"
+43297,Malaysia,asymptomatic,,11,male,Singapore,,"related to 66 year old patient from Singapore (history of travel to Guangzhou), Guangzhou to Singapore (20.01.2020) to Malaysia (22.01.2020)"
+43299,China,fever; cough,,65,male,,,
+43300,China,fever; fatigue,,38,female,Wuhan,,
+43307,China,"cough, fever",,26,male,"Jiangxi, Guangzhou",,
+43308,Singapore,"cough, fever",,53,female,Wuhan,,Case 2
+43311,China,"nausea, vomiting",,68,,,,
+43316,China,"cough, fever",,33,male,"Guizhou, China",,
+43321,South Korea,"cough, fever, sore throat",,73,female,,,family members visited China's Guangdong province from November to Jan. 31
+43330,South Korea,"cough, fever",,35,female,Wuhan,no,Case 1
+43341,,"cough, fever, shortness breath",,55,female,Wuhan,no,
+43385,Thailand,fever,,68,male,,,Chinese
+43397,Thailand,"chills, fever, headache, sore throat",,61,female,Wuhan,,Local market but not Huanan Seafood market
+43419,Thailand,"coughing, fever, muscle aches",,33,female,Wuhan,,
+43441,United States,"cough, fever, nausea",,35,male,Wuhan,no,(1) https://www.nejm.org/doi/full/10.1056/NEJMoa2001191;    (2) Everett specifically? https://www.heraldnet.com/news/new-virus-from-china-reaches-us-and-snohomish-county/
+43508,Thailand,fever,,73,female,Wuhan,,Described as the 6th case
+43541,South Korea,"chills, fever",,54,male,Wuhan,,Case 3
+43552,Japan,"fever, joint pain, pneumonia",,40,male,Wuhan,no,
+43835,China,fever,,51,male,,,is colleague of the 55-year-old female patient of the 37th case confirmed on 10.02.20
+43836,China,"cough, diarrheoa, vomiting",,43,male,,,Case 51; relative of the 66-year-old male patient of the 47th case confirmed on February 11
+43951,Singapore,fever,discharge,61,male,,,Case 59;
+44044,China,"cough, fever",,50,male,,,
+44045,China,"cough, fatigue, fever",,61,female,Wuhan,,
+56902,China,"cough, fever",died,70,male,,,
+56913,China,fever,died,76,female,,,"the first reason for hospital admission was the ache of her right shoulder. Chronic diseases: hypertension, diabetes"
+56924,China,"cough, fever",died,72,male,,,Chronic disease: chronic bronchitis
+56935,China,"cough, fever, gasp",died,79,male,,,"Chronic diseases: hypertension, diabetes"
+56946,China,"cough, fever",died,55,male,,,
+56957,China,"diarrhea, fever",died,87,male,,,Chronic diseases: diabetes
+56968,China,"chest distress, fever",died,66,female,,,Chronic diseases: hypertension
+56979,China,"chest distress, cough, fever, gasp",died,58,male,,,Chronic diseases: hypertension
+56990,China,"cough, fever",died,66,male,,,
+57001,China,"cough, fever",died,78,male,,,Chronic disease: coronary heart disease
+57012,China,"cough, fever, sensation of chill",died,65,male,,,"Chronic diseases: diabetes, coronary heart disease"
+57023,China,"dizziness, fever",died,67,male,,,Chronic disease: chronic bronchitis
+57034,China,"cough, expectoration, fever",died,58,male,,,
+57045,China,fever,died,67,female,,,"Chronic diseases: hypertension, diabetes"
+57056,China,"chest distress, chest pain, fever, weak, dyspnea",died,82,female,,,Chronic diseases: hypertension
+57078,China,"cough, fever, muscular soreness",died,69,female,,,
+57089,China,"fatigue, fever",died,36,male,,,
+57100,China,"cough, fever, dyspnea",died,73,male,,,
+57111,China,fever,died,70,female,,,
+57122,China,fever,died,81,male,,,"Chronic diseases: hypertension, coronary heart disease, diabetes, Tuberculosis"
+58278,China,"chest discomfort, cough, fever",discharged,49,female,,"yes, retailer in the seafood wholesale market",no underlying chronic medical conditions
+60567,China,primary myelofibrosis,died,65,female,,,
+61139,China,"dyspnea, respiratory stress",died,15-88,female,,,
+61250,China,"cough, fatigue, fever, headache",died,66,male,,,"Chronic diseases: hypertension, chronic obstructive pulmonary disease, diabetes, chronic renal insufficiency"
+61361,China,"cough, fatigue, fever, little sputum, muscular soreness",died,48,female,,,"Chronic diseases: diabetes, cerebral infarction"
+61472,China,dyspnea,died,89,male,,,"Chronic diseases: hypertension, diabetes, coronary heart disease, frequent ventricular premature beat (FVPB), coronary artery stenting"
+61694,China,"cough, fever",died,69,male,,,
+61805,China,"obnubilation, somnolence",died,89,male,,,"Chronic diseases: hypertension, cerebral infarction, encephalomalacia"
+61916,China,"cough, expectoration, emesis, fever",died,75,male,,,"Chronic diseases: hypertension, hip replacement"
+62027,China,"cold chills, muscular soreness",died,82,male,,,
+62138,China,dry cough,died,66,male,,,
+62249,China,fever,died,81,male,,,
+62360,China,"chest distress, cough, fatigue, fever",died,82,female,,,"Parkinson's disease for five years, taking medicine of Madopar"
+62471,China,"fatigue, shortness of breath",died,65,male,,,
+62582,China,"cough, fever, grasp, dyspnea",died,80,female,,,"Chronic diseases: hypertension for more than 20 years, diabetes for more than 20 years, Parkinson's disease"
+62693,China,"chest distress, cough, fever",died,53,male,,,
+62804,China,fatigue,died,86,male,,,"Chronic diseases: hypertension, diabetes, colon cancer surgery four years ago"
+62915,China,fever,died,70,female,,,
+63026,China,"cough, fever, grasp",died,84,male,,,"Chronic diseases: chronic bronchitis, stenocardia, hypertension, coronary stenting, hemorrhage of digestive tract"
+66025,South Africa,fever:headache:malaise:sore throat:cough,,38,male,Italy,,Part of group of 10 travelers; self-silating since 03.03.2020
+67914,Reunion,mild,,80,male,USA-Paris,,"travelled through Paris on the return trip to Reunion from USA, hospitalized at CHU Nord"
+71723,Equatorial Guinea,Asymptomatic,,42,female,Spain,,
+71724,Equatorial Guinea,Asymptomatic,,43,male,Spain,,
+71726,Equatorial Guinea,Asymptomatic,,53,female,Spain,,
+71727,Equatorial Guinea,Asymptomatic,,32,,Spain,,
+71728,Equatorial Guinea,Asymptomatic,,46,male,Spain,,
+71729,Equatorial Guinea,Asymptomatic,,68,male,Spain,,
+72018,Liberia,fever:unproductive cough,,46,male,Switzerland,,
+85936,Nigeria,Mild:moderate,,,,,,
+85947,Nigeria,Mild:moderate,,,,,,
+85958,Nigeria,Mild:moderate,,,,,,
+85969,Nigeria,Mild:moderate,,,,,,
+85980,Nigeria,Mild:moderate,,,,,,
+85991,Nigeria,Mild:moderate,,,,,,
+86002,Nigeria,Mild:moderate,,,,,,
+86013,Nigeria,Mild:moderate,,,,,,
+86025,Nigeria,Mild:moderate,,,,,,
+86036,Nigeria,Mild:moderate,,,,,,
+86047,Nigeria,Mild:moderate,,,,,,
+86058,Nigeria,Mild:moderate,,,,,,
+86069,Nigeria,Mild:moderate,,,,,,
+86080,Nigeria,Mild:moderate,,,,,,
+86091,Nigeria,Mild:moderate,,,,,,
+86102,Nigeria,Mild:moderate,,,,,,
+86113,Nigeria,Mild:moderate,,,,,,
+86124,Nigeria,Mild:moderate,,,,,,
+86136,Nigeria,Mild:moderate,,,,,,
+86147,Nigeria,Mild:moderate,,,,,,
+86158,Nigeria,Mild:moderate,,,,,,
+86169,Nigeria,Mild:moderate,,,,,,
+86180,Nigeria,Mild:moderate,,,,,,
+86191,Nigeria,Mild:moderate,,,,,,
+86202,Nigeria,Mild:moderate,,,,,,
+86213,Nigeria,Mild:moderate,,,,,,
+86224,Nigeria,Mild:moderate,,,,,,
+86235,Nigeria,Mild:moderate,,,,,,
+86247,Nigeria,Mild:moderate,,,,,,
+86258,Nigeria,Mild:moderate,,,,,,
+86269,Nigeria,Mild:moderate,,,,,,
+86280,Nigeria,Mild:moderate,,,,,,
+86291,Nigeria,Mild:moderate,,,,,,
+86302,Nigeria,Mild:moderate,,,,,,
+86313,Nigeria,Mild:moderate,,,,,,
+86324,Nigeria,Mild:moderate,,,,,,
+86335,Nigeria,Mild:moderate,,,,,,
+86358,Nigeria,Mild:moderate,,,,,,
+86369,Nigeria,Mild:moderate,,,,,,
+86380,Nigeria,Mild:moderate,,,,,,l
+86391,Nigeria,Mild:moderate,,,,,,
+86402,Nigeria,Mild:moderate,,,,,,
+86413,Nigeria,Mild:moderate,,,,,,
+86424,Nigeria,Mild:moderate,,,,,,
+86435,Nigeria,Mild:moderate,,,,,,
+86446,Nigeria,Mild:moderate,,,,,,
+86457,Nigeria,Mild:moderate,,,,,,
+86469,Nigeria,Mild:moderate,,,,,,
+86480,Nigeria,Mild:moderate,,,,,,
+86491,Nigeria,Mild:moderate,,,,,,
+86502,Nigeria,Mild:moderate,,,,,,
+86513,Nigeria,Mild:moderate,,,,,,
+86524,Nigeria,Mild:moderate,,,,,,
+86535,Nigeria,Mild:moderate,,,,,,
+86546,Nigeria,Mild:moderate,,,,,,
+86557,Nigeria,Mild:moderate,,,,,,
+86568,Nigeria,Mild:moderate,,,,,,
+86580,Nigeria,Mild:moderate,,,,,,
+86591,Nigeria,Mild:moderate,,,,,,
+86602,Nigeria,Mild:moderate,,,,,,
+86613,Nigeria,Mild:moderate,,,,,,
+86624,Nigeria,Mild:moderate,,,,,,
+86635,Nigeria,Mild:moderate,,,,,,
+86646,Nigeria,Mild:moderate,,,,,,
+86657,Nigeria,Mild:moderate,,,,,,
+86668,Nigeria,Mild:moderate,,,,,,
+86679,Nigeria,Mild:moderate,,,,,,
+86692,Nigeria,Mild:moderate,,,,,,
+86703,Nigeria,Mild:moderate,,,,,,
+86714,Nigeria,Mild:moderate,,,,,,
+86725,Nigeria,Mild:moderate,,,,,,
+86736,Nigeria,Mild:moderate,,,,,,
+86747,Nigeria,Mild:moderate,,,,,,
+86758,Nigeria,Mild:moderate,,,,,,
+86769,Nigeria,Mild:moderate,,,,,,
+86780,Nigeria,Mild:moderate,,,,,,
+86791,Nigeria,Mild:moderate,,,,,,
+86803,Nigeria,Mild:moderate,,,,,,
+86814,Nigeria,Mild:moderate,,,,,,
+86825,Nigeria,Mild:moderate,,,,,,
+86836,Nigeria,Mild:moderate,,,,,,
+86847,Nigeria,Mild:moderate,,,,,,
+86858,Nigeria,Mild:moderate,,,,,,
+86869,Nigeria,Mild:moderate,,,,,,
+86880,Nigeria,Mild:moderate,,,,,,
+86891,Nigeria,Mild:moderate,,,,,,
+86902,Nigeria,Mild:moderate,,,,,,
+86914,Nigeria,Mild:moderate,,,,,,
+86925,Nigeria,Mild:moderate,,,,,,
+86936,Nigeria,Mild:moderate,,,,,,
+86947,Nigeria,Mild:moderate,,,,,,
+86958,Nigeria,Mild:moderate,,,,,,
+86969,Nigeria,Mild:moderate,,,,,,
+86980,Nigeria,Mild:moderate,,,,,,
+86991,Nigeria,Mild:moderate,,,,,,
+87002,Nigeria,Mild:moderate,,,,,,
+87013,Nigeria,Mild:moderate,,,,,,
+87025,Nigeria,Mild:moderate,,,,,,
+87036,Nigeria,Mild:moderate,,,,,,
+89486,Gambia,Severe,Deceased,70,male,Six high risk countries,,Bangladeshi Citizen deceased traveled to six other countries prior to arriving in The Gambia
+89897,Namibia,cough:fever,,35,male,Madrid:Spain-Doha:Qatar,,
+89908,Namibia,cough:fever,,24,female,Madrid:Spain-Doha:Qatar,,
+89919,Namibia,cough:fever,,61,male,Germany-Amsterdam:Netherlands-Zimbabwe,,
+89952,Nigeria,fever:cold:cough,,30,female,United Kingdom,,"Patient returned from trip to UK and was in 14 day self isolation, developed symptoms and went to the Infectious Disease Hospital, Lagos for testing"
+90063,Nigeria,Mild:moderate,,,,,,Close contact of a confirmed case. This patient has no travel history of recent
+90074,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90085,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90096,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90107,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90119,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90130,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90141,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90152,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90163,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90174,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90185,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90218,Nigeria,Severe,,67,male,United Kingdom,,"Returned from travel to the UK. Showed symptoms on 3/17/2020, tested and confirmed on Sunday 3/22. Family currently quarantined"
+90263,Nigeria,Mild:moderate,,,,,,
+90274,Nigeria,Mild:moderate,,,,,,
+90285,Nigeria,Mild:moderate,,,,,,
+90296,Nigeria,Mild:moderate,,,,,,
+90307,Nigeria,Mild:moderate,,,,,,
+90318,Nigeria,Mild:moderate,,,,,,
+90340,Lebanon,yes,,45,female,"Qom, Iran",,"Travel history to  Qom, Iran- arrvied on 20.02.2020"
+90375,Nigeria,Mild:moderate,,,,,,Contact case of a previously confirmed case
+90386,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90397,Nigeria,Mild:moderate,,,,Germany,,
+90408,Nigeria,Mild:moderate,,,,UK,,
+90419,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90430,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90441,Nigeria,Mild:moderate,,,,,,
+90453,Nigeria,Mild:moderate,,,,,,
+90464,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90475,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90486,Nigeria,Mild:moderate,,,,High risk country,,Returned from overseas travel
+90497,Namibia,COVID-19 related symptoms,,19,male,London,,
+90508,Namibia,COVID-19 related symptoms,,44,male,Johannesburg,,
+90519,Namibia,COVID-19 related symptoms,,21,male,South Africa,,
+90891,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90892,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90893,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90894,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90895,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90896,Nigeria,no serious symptoms,,,,Milan:Italy,,"Case 1; Italian citizen who works in Nigeria and returned from Milan, Italy to Lagos, Nigeria on the 25th of February 2020"
+90898,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90899,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90900,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90901,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90902,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90903,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90904,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90905,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90906,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90907,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90909,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90910,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90911,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90912,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90913,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90914,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90915,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90916,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90917,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90918,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90920,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90921,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90922,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90923,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90924,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90925,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90926,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90927,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90928,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90929,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90931,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90932,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90933,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90934,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90935,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90936,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90937,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90938,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90939,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90940,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90942,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90943,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90944,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90945,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90946,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90947,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90948,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90949,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90950,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90951,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90953,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90954,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90955,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90956,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90957,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90958,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90959,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90960,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90961,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90962,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90964,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90965,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90966,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90967,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90968,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90969,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90970,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90971,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90972,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90973,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90975,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90976,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90977,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90978,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90979,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90980,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90981,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90982,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90983,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90984,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90986,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+90987,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+91318,Namibia,COVID-19 related symptoms,,19,male,London,,
+91329,Namibia,COVID-19 related symptoms,,44,male,Johannesburg:South Africa,,
+91341,Namibia,COVID-19 related symptoms,,21,male,South Africa,,
+91486,Benin,cough:rhinorrhea:sneezing:muscle pain,,41,male,Ivory Coast,,
+91497,Benin,cough:cold:fever:aches:headache,,56,male,Ivory Coast-Togo,,
+91508,Benin,cough:tired:chest pain,,18,male,,,
+93187,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93188,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93189,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93190,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93191,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93192,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93193,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93194,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93195,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93197,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93198,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93199,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93200,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93201,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93202,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93203,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93204,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93205,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93206,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93208,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93209,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93210,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93211,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93212,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93213,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93214,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93215,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93216,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93217,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93219,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93220,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93221,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93222,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93223,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93224,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93225,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93226,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93227,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93228,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93231,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93232,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93233,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93234,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93235,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93236,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93237,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93238,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93239,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93240,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93242,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93243,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93244,Nigeria,Mild to moderate,Deceased,,,,,
+93245,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93246,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93247,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93248,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93249,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93250,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93251,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93253,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93254,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93255,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93256,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93257,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93258,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93259,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93260,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93261,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93262,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93264,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93265,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93266,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93267,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93268,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93269,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93270,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93271,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93272,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93273,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93275,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93276,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93277,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93278,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93279,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93280,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93281,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93282,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93283,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93284,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93286,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93287,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93288,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93289,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93290,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93291,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93292,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93293,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93294,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93295,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93297,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93298,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93299,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93300,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93301,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93302,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93303,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93304,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93305,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93306,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93308,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93309,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93310,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93311,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93312,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93313,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93314,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93315,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93316,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93317,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93319,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93320,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93321,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93322,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93323,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93324,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93325,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93326,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93327,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93328,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93330,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93331,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93332,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93333,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93334,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93335,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93336,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93337,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93338,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93339,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93342,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93343,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93344,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93345,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93346,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93347,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93348,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93349,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93350,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93351,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93353,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93354,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93355,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93356,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93357,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93358,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93359,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93360,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93361,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93362,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93364,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93365,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93366,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93367,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93368,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93369,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93370,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93371,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93372,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93373,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+93375,Nigeria,Mild to moderate,Receiving Treatment,,,,,
+97608,China,fever,,43,male,Wuhan,,work in a food market in Wuhan
+97619,China,fever,,48,female,Wuhan,,work in a food market in Wuhan
+97630,China,fever,,54,female,Wuhan,,work in a food market in Wuhan
+97641,China,fever,,47,male,Wuhan,,
+97652,China,fever,,55,male,Wuhan,,"a business trip to Wuhan started from 30.11.2019, 09.01.2020 returned to Ma'anshan from Wuhan"
+97663,China,"cough, fever",,47,female,Wuhan,,work in a restaurant near a railway station in Wuhan
+97675,China,fever,,46,female,Wuhan,,"16.01.2020 from Wuhan to Taizhou in Jiangsu province, 21.01.2020 from Taizhou in Jiangsu province to Ma'anshan"
+97851,Japan,"fever, severe pneumonia",,60,male,,,Taxi driver believed to have had contact with a passenger from the Diamond Princess ship
+97879,Japan,fever,,40-49,male,Wuhan,no,Case #24 returned on January 30 on a charter flight (second flight)
+98118,China,pneumonia,,,,,,
+98133,Japan,"cough, fever, sore throat",,20-29,male,Wuhan,,Evacuee on 4th charter flight; February 7 Returned to Japan. Asymptomatic on flight but fever was observed later. No clear contact with pneumonia patients has been confirmed in China.
+98141,Japan,"cough, fever",,40-49,male,Aichi Prefecture,,
+98144,Japan,"dyspnea, fever",,80-89,male,,,#56
+98145,Japan,"cough, difficulty breathing, fever",,50-59,male,,,#58
+98146,Japan,fever,,20-29,male,,,"#57 Son of a doctor (with confirmed inf on 16.02.2020) who works at Kamata Branch Hospital of Makita General Hospital in Ota-ku, Tokyo, contact with father 3 days before symptoms started"
+98151,Vietnam,"fever, headache, runny nose",discharge,55,female,,,"Case 14; neighbor of another case who she visited on 28.01.2020, on February 4 and February 6, aunt, mother and sister also had positive results for nCoV."
+98152,Vietnam,"cough, runny nose",discharge,0.25,female,,,Case 15; 3-months old; grandson of ID#: 6150
+98154,Vietnam,transient fatigue,discharge,50,male,,,Case 16; father of a patient; mother and sister are also cases
+98158,Japan,fever (38 ° C),,50-59,male,,,#38 male surgeon who works at Saiseikai Arita Hospital (where two other infected individuals worked); worked with case #29
+98159,Japan,"37.1 ° C, mild coughing",,50-59,female,,,"#39 wife of #38; mild fever 07-02-2020, then fever returned with cough 14-02-2020"
+98160,Japan,cough,,60-69,male,,,#40 had medical care with case #38
+98179,China,cough,,69,female,Guangzhou,,Case 142
+98180,China,"abdominal pain, pulmonary inflammation",,16,female,Wuhan,,Case 143 was isolated and under observation
+98184,China,Sore throat,,43,male,,,Case 147
+98196,China,cough,,34,female,"Wuhan, China",,Case 162; from Wuhan high-speed rail
+98419,China,fever; fatigue; dry cough,,47,female,,,
+98422,Japan,fever,,50-59,male,Hubei,,"Case 19 From Hubei, visited Japan, initial sutum test negative. returned to China on 30 Jan. Additional sample taken at dischrge from hospital. tested later and was positive."
+98439,Malaysia,"feeling ill, coughing",,31,male,"Macau, mainland China",,"working in Macau, China and has a history of traveling to mainland China before returning to Malaysia on February 1, 2020"
+98526,Malaysia,"cough, fever",,39,female,"Wuhan, China",,"Case 19; from China and believed to be linked to two other victims, also from Wuhan (mother and a friend)"
+98527,Japan,"cough, fever",,20-29,male,,,Case 30;
+98528,Japan,"anorexia, fatigue",death,80-89,female,,,Case 27;
+98535,Japan,"abdominal pain, diarrhea, fever, general malaise",,50-59,male,,,Case 29;
+98536,Japan,fever,,70-79,male,,,Case 28;
+98539,Japan,"cough, fever, malaise",treated in an intensive care unit (14.02.2020),50-59,male,,,severe symptoms and are treated in an intensive care unit
+98542,Singapore,fever,discharge,61,male,,,Case 59;
+98554,Japan,poor physical condition,,60-60,female,,,Taxi driver who drove passengers of the Diamond Princess
+98561,Thailand,"cough, fatigue, fever",,35,female,,,patient is a medical personnel; 15.02.2020; history of close contact with confirmed patients
+98576,,"cough, shortness of breath",death,60-69,male,,,
+98589,,"cough, fever",,30-39,male,,,Case 22;
+98674,China,"discomfort, fever",,43,male,Wuhan,,
+98785,China,"cough, fever, headache, muscular soreness, weak",,24,male,Wuhan,,"work in Wuhan; With 14 days before symptoms, he visited farmers market in Wuhan and contacted people with fever; 19.01.2020 left Wuhan, 20.01.2020 arrived in Baiyin city"
+98789,Japan,fever,,20-29,female,,,Daughter of case 11538; Nurse at Kumamoto Odadai Rehabilitation Hospital
+98790,Japan,fever,,50-59,male,,,Father of case 11537
+98798,Japan,fever 38.3,,50-59,male,,,"#83 - no travel to China, but in Tokyo 12-14"
+98799,Japan,fever (39.5 ℃),,0-6,male,Wuhan,,#84 - preschool son of returnee Dx'd 10 Feb
+98800,Japan,fever 37.7℃,,0-10,male,,,#80 - brothers
+98801,Japan,fever 37.7℃,,0-10,male,,,#81 - brother
+98802,Japan,fever 37.5℃,,40-49,female,,,#82
+98803,Japan,anorexia,,80-89,male,,,#89
+98896,China,"cough, dizziness",,40,male,,,
+98961,Japan,"nausea, cough, pneumonia, fever",,60-69,female,,,
+98964,Japan,fever,,40-49,male,,,"Symptoms subdued, tested due to infection of coleague"
+99030,China,pneumonitis,,70,female,Wuhan,,"Currently in isolation and treatment in the North Hospital of Tongchuan People's Hospital, the condition is stable, from Wuhan to Wangyi District, Tongchuan City"
+99041,China,pneumonitis,,52,female,,,"close contact of id 1011; Currently in isolation and treatment in the North Hospital of Tongchuan People's Hospital, the condition is stable"
+99062,Japan,"fever 38.2 ℃, cough",,60-69,male,,,#102/Hokkaido #13
+99064,Japan,fever (38 ° C),,13-19,female,,,#104/Hokkaido #15
+99065,Japan,fever 37 C,,70-79,female,,,#98/Hokkaido #9
+99066,Japan,"malaise, headache",,50-59,female,,,#103/Hokkaido #14
+99067,Japan,"fever (37 ℃), breathing difficulty",,50-59,male,,,#113/Hokkaido #17
+99068,Japan,"fever (37.5 ℃, then 38 ℃), cough, malaise",,70-79,male,,,#100/Hokkaido #11
+99069,Japan,"sore throat, Cough, fever (37 ℃)",,50-59,female,,,#105//Hokkaido #16
+99070,Japan,difficulty breathing,dead,80-89,male,,,#99//Hokkaido #10
+99072,Japan,fever,,50-59,male,,,#112 Family IDs 11807-10
+99077,Japan,"fever, shortness of breath, pneumonia",,50-59,female,Sapporo,,#97 Went to Sapporo Snow Festival
+99078,Japan,severe dyspnea,,60-69,male,Indonesia,,#106
+99079,Japan,fever,,60-69,male,,,#109 Contact with infected Nagoya female in her 50s
+99080,Japan,fever,,60-69,male,,,#110 Contact with infected Nagoya female in her 50s
+99081,Japan,fever,,60-69,female,,,#107 Contact with infected Nagoya female in her 60s
+99082,Japan,fever,,40-49,female,,,#108 Contact with infected Nagoya female in her 60s
+99089,China,"fever, cough",,96,female,,,
+99091,Japan,nausea,,60-69,female,,,#96
+99096,China,pneumonitis,,44,male,Wuhan,,"26th. Currently in isolation and treatment at Xixiang County People's Hospital, the condition is stable, from Jingzhou to Wuhan on the 20th, and returned to Xixiang County from Wuhan on the 21st"
+99139,China,fever,,10,male,,,Son of case diagnosed on 05.02.2020
+99156,China,fever; fatigue,,62,male,Wuhan; Nanning,,
+99157,China,chest tightness; fatigue,,52,female,,,
+99204,China,cough; fever,,44,female,,,
+99205,China,fever; nasal congestion; runny nose; sore throat; cough,,55,female,,,
+99233,Japan,fever 39.3,,20-29,male,,,"#120, Hokkaido #21"
+99234,Japan,fever 38,,70-79,male,,,"#121, Hokkaido #22"
+99235,Japan,fever 38,,30-39,female,,,"#122, Hokkaido #23"
+99239,,"fever, cough",,20,female,,,"case 25, visited case 24 in hospital on 12.02.2020"
+99240,,"no respiratory symptoms, esophageal reflux",,40,female,,,"case 26, lives with case 24"
+99257,China,fever,,28,female,,,Associated with other cases - isolated 15.02.2020
+99272,China,fever,,1.75,female,"Yichang City, Hubei Province",,Daughter of prior case reported 31.01.2020
+99277,China,cough; sputum; fever,,57,male,Beijing,,Stayed with confoirmed case in Beijing
+99280,China,dry cough,,52,female,Chengdu,,
+99281,China,cough; sore body; cold,,41,male,Wuhan,,
+99299,,acute pharyngitis,,,female,,,Case 30; visited hospital multiple times
+99301,,sore throat,,50-59,male,Wuhan,,Case 28; linked to Case 27
+99773,China,fever,,21,female,Japan,,Passengers of the Diamond Princess cruise ship
+99775,China,cough,,16,male,Japan,,Passengers of the Diamond Princess cruise ship
+99776,China,fever,,80,male,,,"Have been to the ""Fuhui Jingshe"" buddhist hall in meilun building"
+99777,China,fever,,,female,,,
+99778,China,"fever, cough",,33,male,,,
+99779,China,cough,,55,female,,,"Have been to the ""Fuhui Jingshe"" buddhist hall in meilun building"
+99781,China,cough,,60,female,,,
+99782,Japan,low fever 37.0 ℃,,60-69,male,,,#148 February 15  Diamond Princess passenger. Negative test on February 16. Disembark on February 20. At home February 20 to 25. nasopharyngeal swab test taken 25 Feb. Positive.
+99783,Japan,low fever (37.4 ℃),,50-59,male,,,"#149 Doctor for Disaster Psychiatric Assistance Team February 12-18, cruise ship ""Diamond Princess"""
+99784,Japan,low fever (37.2 ° C); cough,,70-79,male,,,#150 Diamond Princess passenger; 14 Feb negative pharyngeal swab; 21 Feb Disembarked. At home 21-25 Feb.
+99785,China,"cough, fatigue, fever, weakness",,66,male,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+99787,Japan,"fever (39.5 ℃), malaise",,20-29,male,,,#151/Hokkaido #33
+99788,Japan,"sore throat; fever, nasal discharge",,20-29,female,,,#152/Hokkaido #34
+99789,Japan,"fever (37.4 ° C), pneumonia",,70-79,male,,,#153/Hokkaido #35
+99790,Japan,"fever (37.8 ℃), cough",,70-79,female,,,#155/Hokkaido #37
+99791,Japan,"fever (38-39 ° C), malaise",,70-79,female,,,#156/Hokkaido #36
+99792,Japan,"fever, cough",,40-49,male,,,#157/Hokkaido #39
+99794,Japan,"fever 38.1 ℃ Cough, malaise, anorexia",,50-59,male,,,"#158, identified in contact testing then became sick"
+99795,Japan,"Discharge, cough, sore throat, chest pain",,40-49,female,,,"#159, negative PCR 06 Feb; retested 26 Feb"
+99796,Japan,"fever, cough, phlegm, dyspnea",,80-89,male,,,#160/Tokyo case #33
+99797,China,fever,,58,female,Hong Kong,,
+99798,Japan,"fever, cough, phlegm, dyspnea",,70-79,male,,,#161/Tokyo case #34
+99799,Japan,"fever, cough, phlegm",,70-79,male,,,#162/Tokyo case #35
+99800,Japan,"fever 37.8 ℃ , sore throat",,50-59,male,,,#163
+99801,Japan,fever,,60-69,male,,,#164
+99802,Japan,"fever, cough",,70-79,male,,,#165
+99803,Japan,"fever 37.1 ℃ , cough",,70-79,male,,,#166
+99804,Japan,"fever 38.3 ℃ , cough",,70-79,female,,,#167
+99806,Japan,"malaise, fever (37 ℃); headache, toothache, pneumonia",,50-59,male,,,#168 - no Hx of contact with cases; saw dentist 19 Feb
+99807,Japan,"Sore throat, chills",,50-59,female,,,#169 - contact with 1st patient in Gifu on 20-24 Feb
+99808,China,fever,,39,female,Wuhan,,
+99809,Japan,fever 38,,50-59,male,,,#170
+99810,Japan,"fever 37.5 , headache, malaise",,50-59,male,,,#171
+99811,Japan,"fever, cough, phlegm",,60-69,female,,,#172/ Tokyo case 36
+99812,Japan,"Fever, cough, headache",,40-49,male,,,"#173  Shinkansen travel 20 feb. 21Feb returned to Osaka, 24 in Hirakata"
+99813,Japan,fever 37.2,,50-59,male,,,#174/ Hokkaido #40; close contact with Hokkaido #28
+99814,Japan,"cough, malaise",,50-59,male,,,#175/ Hokkaido #41; close contact with Hokkaido #28
+99815,Japan,"sore throat, fever (38-39 ℃)",,30-39,male,,,#176/Hokkaido #42
+99816,Japan,"fatigue, fever (38 ℃)",,70-79,male,,,#177/Hokkaido #43
+99817,Japan,fever (38.3 ℃),,60-69,male,,,#178/Hokkaido #44; Akishi town within Kushiro
+99818,Japan,"vomiting, cough, fever (38.2 ℃), sore throat",,40-49,male,,,#179/Hokkaido #45
+99819,China,"dizziness, sore limbs",,21,female,Wuhan,,
+99820,Japan,"fever (39 ° C), joint pain",,40-49,male,,,#180/Hokkaido #46
+99821,Japan,"fever (37.4 ℃), cough",,0-10,male,,,#181/Hokkaido #47
+99822,Japan,"fever (40.3 ℃), Headache, malaise, joint pain",,30-39,male,,,#182/Hokkaido #48
+99823,Japan,"fever (39.9 ℃), cough",,0-10,male,,,#183/Hokkaido #49
+99824,Japan,"fever (39.3 ℃), cough",,80-89,male,,,#184/Hokkaido #50
+99825,Japan,"cough, fever (38.3 ℃), joint pain",,30-39,male,,,#185/Hokkaido #51
+99826,Japan,"Cough, fever (38 ℃)",,80-89,male,,,#186/Hokkaido #52
+99827,Japan,"Fever (37.4 ° C), malaise, sore throat",,60-69,male,,,#187/Hokkaido #53
+99828,Japan,"cough, sore throat",,0-10,female,,,#188/Hokkaido #54; nurse
+99829,Japan,Fever (38 ° C),,60-69,female,,,#189 - contact of male case from 22.02.2020
+99831,Japan,"Fever (38.1 ° C), cough, headache.",,60-69,male,,,#190 - contact of male case from 22.02.2020
+99841,,pneumonia,,50-59,female,Wuhan,,visited Wuhan and then traveled to Europe (16.01.2020-25.01.2020) before returning to Taiwan
+99896,China,"cough, fever, weakness",,65,female,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+100007,China,"cough, diarrhea, fever, rhinorrhoea, sneezing",,36,male,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+100085,China,"cough, fever",,68,female,Wuhan,no,lives in Shenzhen. Visited Wuhan family during incubation period
+100096,China,fever,,64,male,,,travelled from Wuhan to Shenzhenbei (G1013) and then from Shenzhenbei to Hong Kong (G6543) by High-Speed Rail on January 19
+100119,Cambodia,"fever, runny nose",,60,male,Wuhan,,"Traveled from Wuhan w/3 fmaily members.""quarantined at Preah Sihanouk provincial hospital, and his condition is not considered serious"""
+100164,Japan,"chills, headache, fatigue",,40-49,female,,,#192
+100165,Japan,fever,,20-29,male,,,#193
+100166,Japan,"cough, sore throat",,60-69,male,,,#194 return to home after disembarking the cruise ship Diamond Princess
+100167,Japan,"cough, phlegm, fever 37 degrees",,80-89,female,,,#195/Hokkaido 55
+100168,Japan,fever 39.0 ℃,,0-10,male,,,#196/Hokkaido 56
+100169,Japan,"fever (38.0 ℃), Fatigue, difficulty walking",,80-89,male,,,#197/Hokkaido 57
+100170,Japan,cough,,60-69,female,,,#198/Hokkaido 58
+100171,Japan,fever (38.0 ℃),,60-69,male,,,#199/Hokkaido 59
+100172,Japan,"chills,  fever (38 ℃), malaise",,60-69,male,,,#200/Hokkaido 60
+100173,Japan,"Sputum, cough symptoms, fever (37 ℃), cough, breathing difficulty",,60-69,female,,,#201/Hokkaido 61
+100175,Japan,"fever (37.0 ℃), fever (38.7 ℃)",,40-49,male,,,#202/Hokkaido 62
+100176,Japan,fever (37.5 ℃ ～ 38.0 ℃),,70-79,male,,,#203/Hokkaido 63
+100178,Japan,fever and cough,,60-69,female,,,#205/Hokkaido 65
+100179,Japan,fever,,60-69,male,,,#206/Hokkaido 66
+100181,Japan,fever (38 ° C),,60-69,male,,,#207
+100182,Japan,fever (38 ° C),,40-49,female,,,#208
+100184,,sore throat,,27,female,,,
+100229,China,"anhelation, cough, fever, pleural effusion, weakness",,63,female,,,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+100341,China,"diarrhea, fever, nasal congestion, pleuritic chest pain, sore throat",,37,female,Wuhan,no,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+101451,China,cough,,38,female,Wuhan,,drove from Wuhan to Chizhou
+101507,Bhutan,"fever, sore throat, cough, shortness of breath",,76,male,"Guwahati, India",,
+102340,China,cough,,66,female,Wuhan,,"Among the 53 cases diagnosed in our province, 28 were males and 25 were females, aged between 10-81 years old. Among them, 45 cases had a history of living or traveling in Hubei before the onset, and 8 cases had no Hubei before the onset of the disease. Resident history or travel history, 6 of which are imported family members of Hubei, 1 with dinner with friends in Wuhan, 1 without obvious contact history, epidemiological investigations are being carried out. A total of 10 cluster epidemics were found, all of which were family clusters, involving 27 cases. There were no cases of medical staff infection."
+102440,China,fever,,44,female,Wuhan,,arrived in Bengbu from Wuhan
+102452,China,fever,,53,male,Hangzhou,,live in Hangzhou; drove from Hangzhou to Bengbu
+102562,China,fever,,45,male,Wuhan,,drove back to Bengbu from Wuhan
+103418,China,pneumonia,,39,male,Wuhan,,admitted to Ankang Central Hospital
+103429,China,pneumonia,,41,female,Wuhan,,Worked in Wuhan for a long time
+103452,China,pneumonitis,,27,male,Wuhan,,worked in Wuhan for a long time
+103551,China,fever,,0.25,female,"Xiaogan City, Hubei",,Hainan Case 37
+104085,,"cough, fever, myalgia, rhinorrhea, sore throat",,52,female,Wuhan,no,Went to Wuhan for work in October. She worked at the same place as the first Taiwan case (announced on Jan 21) and returned home to Taiwan; 5th case
+104318,South Korea,"aching muscles, fever, pneumonia",,55,male,Wuhan,,Case 4
+104381,Philippines,cough,,59,female,None,,Linked to prior case (her husband)
+104421,Australia,lethargy; dry cough,,50-59,male,USA,,VA Case 19; home isolation
+104437,Mongolia,fever,,,,,,Case 1; French citizen
+104596,China,dry cough,,28,male,Wuhan,,arrived in Huainan from Wuhan; student in a university in Wuhan
+104696,Japan,sore throat,,30-39,female,Osaka,,#209
+104718,Japan,"fever, dcough",,60-69,male,,,"#210, Tokyo resident but Dx in Niigata"
+104740,Japan,"fever, sore throat",,70-79,male,Diamond Princess,,#211; 20 Feb left Diamond Princess; 28 Feb slight fever sort throat; 29 Feb text +
+104751,Japan,"fever, cough",,20-29,female,,,#212
+104773,Japan,"cough, nasal discharge, fever (37.2 ° C)",,90-99,female,,,#213/ Hokkaido #67
+104797,Japan,"cough, general malaise, joint muscle pain",,60-69,female,,,#214/Hokkaido #68
+104830,Japan,"fever, headache, and malaise, influenza",,30-39,female,,,#215/Hokkaido #69
+104874,Japan,"Fever, cough, vomiting.",,70-79,female,,,#217
+104896,China,"cough, fever",,63,male,,,"recent travel history, whereabouts and dates unclear"
+104897,Japan,"Cough, fever (38.0 ° C)",,60-69,male,,,"#218, taxi driver"
+104919,Japan,fever 37.8 ° C Dyspnea with pneumonia,,70-79,female,,,#219; became ill at Japan Rail station Ofuna and was transported
+104941,Japan,headache,,50-59,female,,,"#220; Close contact with female patients in their 70s announced on Friday, February 28; PCR tested due to contact"
+104963,Japan,"fever 37.5 ℃, diarrhea, nausea, dyspnea, cough, inappetance",,20-29,male,,,#221; grandaughter of #220
+104985,Japan,"fever (38.0 ° C), cough, malaise",,20-29,female,,,#222/ Hokkaido #71
+105007,China,"cough, fever",,62,female,Wuhan,,
+105008,Japan,fever (38.6 ℃),,40-49,male,,,#223/ Hokkaido #72
+105030,Japan,cough,,50-59,female,,,#224/Tokyo 38
+105052,Japan,"fever, difficulty breathing",,70-79,male,,,#225/ Tokyo 39
+105063,Japan,"malaise, fever, joint pain",,50-59,male,,,#226
+105085,Japan,"malaise, fever, joint pain, phlegm",,50-59,female,,,#227
+105118,China,fever,,49,male,,,"recent travel history, whereabouts and dates unclear"
+105119,Japan,"cough, malaise",,60-69,female,,,#228
+105141,Japan,fever (38.9℃),,80-89,female,,,#229
+105163,Japan,fever (38.2℃),,50-59,female,,,#230
+105174,Japan,fever,,60-69,female,,,#231
+105207,Japan,fever 38,,40-49,male,,,#232; poor quality report
+105229,China,fever,,46,male,,,contact people from Wuhan
+105252,Japan,"cough, phlegn,  38 ° C fever",,30-39,female,,,#233
+105274,Japan,fever 37,,40-49,male,,,#234
+105285,Japan,"fever (38.8 ℃), breathing difficulty",,60-69,male,,,#235/Hokkaido #73
+105318,Japan,"fever (37.6 ℃), fatigue, diarrhea",,60-69,male,,,#236/Hokkaido #74
+105341,Japan,"fever (38 ° C), nasal discharge/congestion, sore throat, malaise, joint pain",,50-59,male,,,#237/Hokkaido #75
+105352,Japan,"fever, joint pain",,40-49,female,Sapporo,,#238/Hokkaido #76 or 77
+105374,Japan,"fatigue, fever",,50-59,male,,,#239/Hokkaido #76 or 77
+105451,China,"cough, fever",,34,male,Wuhan,,worker in Wuhan; arrived in Guilin from Wuhan
+105485,Japan,"fever, cough",,50-59,male,,,#240
+105507,Japan,fever,,40-49,female,,,#241
+105529,Japan,"38.7 degrees fever, headache, malaise",,30-39,female,,,#242
+105562,China,fever,,41,male,Wuhan,,drove to Guilin from Wuhan
+105563,Japan,fever,,40-49,male,,,#243
+105574,Japan,Fever (37.5 ° C),,40-49,female,,,#257
+105596,Japan,"fever, headache, cough",,30-39,female,,,#244/Hokkaido #78 contact of Hokkaido #70
+105618,Japan,breathing difficulty,,60-69,female,,,#245/Hokkaido #79 contact of Hokkaido #70
+105651,Japan,"fever, cough",,60-69,female,,,#246
+105673,China,"fever, weak",,72,female,Wuhan,,arrived in Beihai from Wuhan
+105674,Japan,fever 38-39 C,,50-59,female,,,#247
+105696,Japan,fever 37-39 C,,40-49,male,,,#248
+105707,Japan,fever (37.6 - 38.3 degrees),,50-59,female,,,#249
+105729,Japan,"fever, cough",,50-59,female,,,#250/ Tokyo #40
+105751,Japan,fever,,50-59,male,,,#251
+105773,Japan,backache,,40-49,female,,,#252; took analgesic/amtipyretic (Sumiko:may have masked fever?)
+105784,China,"cough, fever, muscular soreness",,20,female,Wuhan,,student in Wuhan; arrived in Beihai from Wuhan
+105807,Japan,fever,,70-79,female,,,#253/Aichi #33; same facility as #254
+105829,Japan,fever,,80-89,male,,,#254/Aichi #34; same facility as #253
+105851,Japan,"fever (38.5 degrees), cough, sore throat",,20-29,female,,,#255/Aichi #35
+105873,Japan,"Fever, cough, runny nose",,70-79,male,,,#256/Aichi #36
+105895,China,fever,,33,female,Wuhan,,arrived in Beijing
+105896,China,"cough, fever",,54,male,Wuhan,,work in Wuhan; arrived in Beihai from Wuhan
+105897,Japan,"fever (37.5-39 ° C), rash",,40-49,male,"Fukuoka, Kumamoto, Oita prefectures",,#258
+105908,Japan,"mild cough, phlegm",,40-49,female,,,#259/Kochi #4; close contact of Kochi #1
+105941,Japan,"sneezing, runny nose and slight fever",,60-69,male,,,#260/Kochi #5; father of Kochi #3
+105952,Japan,"sneezing, runny nose and slight fever",,60-69,female,,,#261/Kochi #6; mother of Kochi #3
+105974,Japan,runny nose,,0-10,male,,,#262/Kochi#7(?)/ close contact of Kochi #3 - elementary school
+105996,Japan,"fever  (37.0-5 ℃), malaise",,30-39,female,,,#263
+106007,China,fever,,33,female,Wuhan,,arrived in Baise from Wuhan; visited a private clinic in Wuhan for treatment because of her fever on 19.01.2020
+106019,Japan,fever  (37.2 ℃),,70-79,male,Los Angeles,,"#264 - Travel to Los Angeles, USA with his wife from Feb 20th to 26th, and return to Japan on 27th"
+106052,Japan,"chills, fever (38.5 ℃), nausea, diarrhea",,50-59,male,,,#265/Hokkaido #80
+106063,Japan,sore throat,,60-69,male,,,#266/Hokkaido #81/ Asahikawa #6
+106085,Japan,fever,,60-69,male,,,#267/Hokkaido #82/ Asahikawa #7
+106107,Japan,fatigue,,80-89,female,,,#268/Tokyo #41
+106118,China,"chest distress, cough, expectoration, muscular soreness",,49,female,Wuhan,,arrived in Hechi from Wuhan by train
+106130,Japan,fatigue,,30-39,female,,,#269/Tokyo #42
+106152,Japan,"fever, cough, phlegm",,50-59,male,,,#270/Tokyo #43
+106174,Japan,"fever, joint pain",,40-49,female,,,#271/Tokyo #44
+106207,Japan,"runny nose, sore throat, mile cough",,80-89,female,,,#272
+106230,Japan,fever,,60-69,female,,,#273
+106252,Japan,"fever, headache",,50-59,male,,,#274
+106263,Japan,"fever, cough",,70-79,female,,,#275
+106296,Japan,"fever, phlegm",,80-89,male,,,#276
+106318,Japan,"fever, cough",,80-89,male,,,#277
+106341,Japan,"fever, cough",,80-89,male,,,#278
+106363,Japan,Fever (37 ℃),,50-59,female,,,#279
+106374,Japan,"fever (38 ° C), cough",,50-59,male,,,#280
+106396,Japan,fever,,30-39,female,,,#281/Osaka #10
+106418,Japan,fever,,30-39,male,,,#282/Osaka #12
+106452,Japan,fever,,60-69,female,,,#283/Osaka #13
+106474,Japan,sneezing,,50-59,female,,,#284/Osaka #14
+106496,Japan,fever,,50-59,male,,,#285/Osaka #15
+106507,Japan,fever,,30-39,female,,,#286/Osaka #16
+106529,Japan,fever,,70-79,male,,,#287/Osaka #17
+106562,China,"cough, headache",,33,male,Wuhan,,work on software development and maintenance in a hospital in Wuhan during 13.01.2020-17.01.2020
+106651,Japan,"fever (38), cough",,30-39,male,,,#289
+106662,Japan,"minor fatigue, sore throat",,50-59,female,,,asypmtomatic; Kyobashi Live House Arc concert
+106673,China,"fever, sneeze",,2,female,Wuhan,,arrived in Nanning from Wuhan by plane and then took a bus to Hechi
+106685,Japan,fever 37.5,,40-49,female,,,asypmtomatic
+106740,Japan,"Cough, headache, general malaise",,60-69,male,,,#290/Hokkaido #83
+106784,China,discomfort,discharge,29,male,"Ezhou City, Hubei",,arrived in Fangchenggang from Ezhou City
+106785,Japan,fever,,50-59,male,,,#292
+106796,Japan,fever,,60-69,male,,,#293
+106829,Japan,fever,,50-59,male,,,#294
+106851,Japan,cough,,0-10,female,,,#295/Tokyo #45
+106862,Japan,cough,,0-10,male,,,#296/Tokyo #46
+106884,Japan,cough,,30-39,female,,,#297/Tokyo #47
+106895,China,"cough, muscular stiffness, weak",,62,male,Thailand,,
+106907,Japan,fever,,20-29,female,,,#298/Tokyo #48
+106929,Japan,fatigue,,70-79,female,,,#299/Tokyo #49
+106951,Japan,"Fever, cough, malaise",,90-99,male,,,#300/Tokyo #50
+106984,Japan,"Fever, cough",,70-79,male,,,#301/Tokyo #51
+106995,Japan,"Fever, cough Difficulty breathing",,80-89,male,,,#302/Tokyo #52
+107006,China,"fatigue, fever, headache",discharged,,female,Wuhan,,
+107007,China,fever,,61,male,Wuhan,,arrived in Yulin from Wuhan
+107030,Japan,fever 37.2,,20-29,female,,,#303
+107063,Japan,fever (38.0),,30-39,male,,,#304/Aichi #43?? - close contact of Aichi #33 and 34
+107096,Japan,"fever (37.4-8), cough",,50-59,male,France via Germany,,#305/Aichi #50
+107118,China,discomfort,,20,male,Wuhan,,student in a college in Wuhan
+107119,Japan,cough,,40-49,female,,,#306/Aichi#39
+107141,Japan,"fever, pneumonia, malaise",,60-69,male,,,#307/Aichi #40
+107163,Japan,"fever, cough, general pain",,60-69,female,,,#308/Aichi #41
+107185,Japan,fever,,40-49,female,,,#309/Aichi #42; contact with Aichi #40
+107196,Japan,fever,,80-89,female,,,#310
+107229,China,fever,,51,male,Wuhan,,
+107230,Japan,fever,,80-89,male,,,#311
+107241,Japan,fever,,50-59,female,,,#312
+107285,Japan,"Fever (37.4 degrees), sore throat",,30-39,female,,,#313
+107296,Japan,"Fever, cough",,80-89,male,,,#314/Hokkaido #84; close contact of Hokkaido #79
+107318,Japan,"Cough, headache, general malaise, sore throat",,20-29,female,,,#315/Hokkaido #85; close contact of Hokkaido #79
+107324,Japan,cough,,,,,,#154 Died 25.02.2020
+107332,Philippines,acute respiratory distress syndrome:severe pneumonia,died,62,male,,,PH5:Husband of PH6
+107333,Philippines,acute respiratory distress syndrome:severe pneumonia,died,59,female,,,PH6:Wife of PH5
+107336,Philippines,acute respiratory failure:pneumonia,died,86,male,USA-South Korea,,PH9
+107338,Philippines,cough,recovered,72,male,,,PH11
+107339,Philippines,fever:cough:acute respiratory distress syndrome,died,56,male,,,PH12
+107340,China,fever,,50,female,Changsha,,"have meals with people from Wuhan in the same table, study trip"
+107342,Philippines,fever,recovered,34,male,Australia,,PH13
+107343,Philippines,fever:cough,recovered,46,male,,,PH14
+107345,Philippines,cough:sore throat:colds,recovered,70,male,,,PH16:Husband of PH17
+107347,Philippines,fever:headache:body malaise,recovered,41,male,Taiwan,,PH18:Husband of PH19
+107348,Philippines,none,recovered,46,female,,,PH19:Wife of PH18
+107349,Philippines,cough:body malaise,recovered,38,male,Japan,,PH20
+107350,Philippines,fever:cough:shortness of breath,,58,female,,,PH21
+107351,Philippines,cough:colds:dysphagia,recovered,51,female,,,PH22:With exposure to known COVID-19 case
+107352,Japan,"Fever, sore throat",,30-39,male,,,#316/Hokkaido #86
+107353,Philippines,cough:sore throat:headache,recovered,30,female,,,PH23
+107355,Philippines,none,recovered,31,male,Japan,,PH25 passenger of Diamond Princess Cruise Ship
+107356,Philippines,none,recovered,34,male,Japan,,PH26 passenger of Diamond Princess Cruise Ship
+107359,Philippines,septic shock:cardiogenic shock:acute respiratory distress syndrome:acute renal failure,died,82,female,USA,,PH29:Wife of PH9
+107363,Japan,fever (38 ℃),,70-79,male,,,#317/Hokkaido #87
+107364,Philippines,fever:cough:dizziness,,60,male,Thailand,,PH33
+107366,Philippines,severe pneumonia,died,67,female,,,PH35:Wife of PH34
+107368,Philippines,acute respiratory failure,died,88,female,,,PH37
+107371,Philippines,acute respiratory distress syndrome:severe pneumonia,died,54,male,San Juan City/Metro Manila:Philippines,,PH40
+107384,Philippines,multiple organ failure:pneumonia,died,79,female,United Kingdom,,PH52
+107385,Japan,fever (37.8 ℃),,,female,,,#318/Hokkaido #88
+107387,Philippines,acute respiratory distress syndrome:pneumonia,died,39,male,,,PH54
+107390,Philippines,acute respiratory distress syndrome:pneumonia,died,65,male,London/London:UK,,PH57
+107407,Japan,fever (38 ℃),,60-69,male,,,#319/Hokkaido #89
+107414,Philippines,acute respiratory failure:pneumonia,died,68,male,,,PH79
+107425,Philippines,acute respiratory failure:pneumonia,died,67,male,,,PH89
+107440,Japan,"phlegm, malaise",,30-39,male,,,#320/Hokkaido #90
+107463,Japan,"fever, cough",,70-79,male,,,#321/Tokyo #53
+107465,Philippines,acute respiratory failure:pneumonia,died,65,male,Singapore,,PH124
+107467,Philippines,acute respiratory distress syndrome:pneumonia,died,76,male,,,PH126
+107470,Philippines,acute respiratory distress syndrome:pneumonia,died,67,male,,,PH129
+107485,Japan,"fever, cough",,30-39,female,,,#322/Tokyo #54
+107492,Philippines,acute respiratory failure:pneumonia,died,61,female,,,PH149
+107504,Philippines,septic shock:pneumonia,died,86,female,,,PH160
+107507,Japan,"fever, cough",,40-49,male,,,#323/Tokyo #55
+107518,Japan,"fever, cough, shortness of breath",,90-99,male,,,#324/Tokyo #56
+107524,Philippines,acute respiratory distress syndrome:pneumonia,died,74,male,,,PH178
+107540,Japan,"fever, cough",,50-59,female,,,#325/Tokyo #57
+107548,Philippines,acute respiratory distress syndrome,died,34,male,,,PH200
+107549,Philippines,acute respiratory distress syndrome,died,58,male,Malaysia,,PH201
+107559,Philippines,cardiac arrhythmia:septic shock:pneumonia,died,81,male,,,PH210
+107566,Philippines,pneumonia,died,71,male,,,PH215
+107592,Philippines,pneumonia:acute respiratory failure:heart failure,died,76,male,,,PH239
+107596,Japan,"fever 38.0, cough, fatigue",,50-59,male,,,#326/Chiba #17
+107618,Japan,fever 40.0,,50-59,male,,,#327/Chiba #18
+107622,Philippines,septic shock:pneumonia,died,71,male,,,PH266
+107634,Philippines,acute respiratory distress syndrome:pneumonia:septic shock,died,72,female,,,PH277:for validation
+107635,Philippines,septic shock:pneumonia,died,72,female,,,PH278
+107636,Philippines,pneumonia,died,73,male,,,PH279
+107638,Philippines,septic shock:pneumonia,died,57,male,,,PH281
+107640,Japan,"fever (39), inapatence",,60-69,male,,,#328
+107651,Japan,"malaise, dyspnea, cough",,80-89,male,,,#329
+107660,Kazakhstan,no clinical symptoms,,46,male,;;Germany,,
+107661,Kazakhstan,no clinical symptoms,,36,female,;;Germany,,
+107751,Japan,fever 38,,50-59,female,,,#331
+107784,China,"cough, fever",,72,male,Wuhan,,
+107895,China,"chest distress, dyspnea",died,80,male,Wuhan,,lived in Wuhan for two months and then went back to Cangzhou
+107999,Philippines,myocardial infarction:pneumonia:multiple electrolyte imbalance,died,89,male,,,PH304:with known exposure to COVID-19 case
+108001,Philippines,acute respiratory disease,died,67,female,,,PH306
+108005,Philippines,acute respiratory distress:pneumonia,died,60,female,France-Abu Dhabi/Abu-Dhabi:UAE,,PH310
+108006,China,"cough, expectoration, fever",,49,male,Wuhan,,
+108016,Philippines,pneumonia,died,56,male,,,PH319
+108019,Philippines,pneumonia,died,46,male,,,PH321
+108024,Philippines,acute respiratory distress:pneumonia,died,57,male,,,PH326
+108025,Philippines,acute myocardial infarction,died,46,male,,,PH327
+108026,Philippines,acute respiratory failure:pneumonia,died,74,male,,,PH328
+108032,Philippines,acute respiratory distress syndrome:pneumonia,died,65,male,,,PH333
+108049,Philippines,acute respiratory failure:pneumonia,died,56,male,,,PH349
+108052,Philippines,septic shock:pneumonia,died,56,male,,,PH351
+108055,Philippines,acute coronary syndrome:congestive heart failure:severe acute respiratory infection,died,80,female,,,PH354
+108068,Philippines,acute respiratory failure:pneumonia:sepsis,died,63,male,,,PH366
+108069,Philippines,acute respiratory distress syndrome:septic shock:pneumonia,died,78,male,,,PH367
+108086,Philippines,pneumonia,died,63,female,,,PH382
+108093,Philippines,acute respiratory failure:sepsis:pneumonia,died,71,female,,,PH389
+108096,Philippines,pneumonia,died,80,female,,,PH391
+108098,Philippines,septic shock:pneumonia,died,74,female,,,PH393
+108107,Philippines,acute respiratory failure:pneumonia,died,62,male,,,PH401:related to known COVID-19 case
+108119,China,"cough, fatigue, fever, sputum",,69,male,Wuhan,,Heilongjiang as a city seems unlikely?
+108125,Philippines,acute respiratory distress syndrome:pneumonia,died,78,female,,,PH415
+108149,Philippines,cardiogenic shock:acute coronary syndrome:heart failure:pneumonia,died,57,male,,,PH437
+108177,Philippines,acute respiratory failure:pneumonia:myocardial infarction,died,83,female,,,PH462
+108208,China,fever,,59,female,,,
+108231,China,fever,,38,male,,,
+108244,Philippines,acute kidney injury:septic shock:acute respiratory distress syndrome,died,61,female,,,PH522
+108253,China,fever,,37,male,,,
+108263,Philippines,acute respiratory failure:pneumonia,died,50,male,,,PH540
+108275,China,fever,,49,male,,,
+108298,Philippines,acute respiratory distress syndrome:pneumonia:septic shock,,72,female,,,PH571
+108308,China,fever,,43,female,,,
+108309,Philippines,arrhythmia:acute respiratory distress syndrome:pneumonia,died,79,female,,,PH581
+108315,Philippines,acute respiratory failure,died,79,male,,,PH587
+108319,China,fever,,39,female,,,
+108329,Philippines,acute respiratory failure:pneumonia,died,87,male,,,PH600
+108334,Philippines,acute respiratory distress syndrome:pneumonia,died,60,male,,,PH604
+108353,China,fever,,41,male,,,
+108354,Philippines,sepsis:pneumonia,died,77,male,,,PH621
+108369,Philippines,acute respiratory distress:pneumonia,died,80,female,,,PH635:related to known COVID-19 case
+108370,Philippines,acute respiratory distress syndrome:pneumonia:acute respiratory failure,died,56,male,,,PH636
+108371,Philippines,acute respiratory failure:acute kidney injury,died,75,male,,,PH637
+108375,China,fever,,67,female,,,
+108382,Philippines,acute respiratory failure:myocardial dysfunction,died,43,male,,,PH647
+108383,Philippines,acute respiratory distress syndrome:septic shock:pneumonia:gastritis:acute kidney injury,died,71,male,,,PH648
+108397,China,fever,,52,female,,,
+108414,Philippines,heart failure:pneumonia,died,64,male,,,PH676
+108415,Philippines,heart failure:pneumonia,died,60,male,,,PH677
+108419,China,fever,,31,male,,,
+108430,China,fever,,34,female,,,
+108432,Philippines,pneumonia,,80,male,,,PH692
+108452,China,"chest tightness, dyspnea, fever",,66,male,Wuhan,,
+108461,Philippines,acute respiratory distress syndrome,died,78,male,,,PH718
+108464,China,fever,,24,female,,,
+108473,Philippines,pneumonia:congestive heart failure,died,67,male,,,PH729
+108474,Philippines,cardiac arrhythmia:pneumonia,died,86,male,,,PH730
+108476,Philippines,myocardial infarction:acute respiratory distress syndrome:pneumonia,died,82,male,,,PH731
+108486,China,fever,,47,male,,,
+108508,China,fever,,16,male,,,
+108530,China,fever,,32,male,,,
+108541,China,fever,,32,female,,,
+108549,Philippines,pneumonia,died,74,male,,,PH798
+108575,China,fever,,25,male,,,
+108586,China,fever,,52,female,,,
+108608,China,fever,,42,female,,,
+108617,Philippines,cardiopulmonary arrest; acute respiratory failure; pneumonia,died,70,male,,,PH859
+108619,China,fever,,51,male,,,
+108621,Philippines,acute respiratory failure:pneumonia,died,78,male,,,PH862
+108630,China,fever,,43,male,,,
+108662,Philippines,acute respiratory distress syndrome:pneumonia,died,71,male,,,PH900
+108702,Philippines,acute respiratory distress syndrome,died,83,male,,,PH935
+108810,Philippines,acute respiratory distress syndrome:pneumonia,died,64,female,,,PH1032
+108872,Philippines,acute respiratory distress syndrome:pneumonia,,65,female,,,PH1089
+109040,Philippines,arrhythmia:septic shock:acute respiratory disease syndrome: acute kidney injury,died,51,male,,,PH1240
+109105,Philippines,acute respiratory failure:severe acute respiratory distress syndrome:pneumonia:septic shock,,73,male,,,PH1299
+109187,Philippines,arrhythmia:sepsis:acute respiratory distress syndrome:pneumonia:acute kidney injury,died,89,male,,,PH1372
+109229,China,fever,,37,male,Wuhan,,business trip
+109240,Philippines,septic shock:pneumonia,died,69,male,,,PH1419
+109270,Philippines,acute respiratory distress syndrome:pneumonia:hypoxia,died,59,male,,,PH1446
+109271,Philippines,cardiopulmonary arrest: acute respiratory distress syndrome: pneumonia: hypoxia,died,45,male,,,PH1447
+109316,Philippines,acute respiratory distress syndrome:septic shock,died,60,male,,,PH1488
+109317,Philippines,acute respiratory distress syndrome: pneumonia,died,74,male,,,PH1489
+109452,China,"cough, fever",died,39,male,Wuhan,no,
+109563,China,fever,,56,male,Wuhan,,Wuhan;Shenzhen
+109674,China,fever,,62,female,Wuhan,no,married 8th HK case
+110007,China,"cough, fever",,57,female,Wuhan,,
+110230,Japan,"chills, cough, joint pain",,60-69,male,,no,"Bus driver, worked with tourists twice last month (08.01.2020-11.01.2020 and 12.01.2020-16.01.2020) covering the Tokyo-Osaka route"
+110241,Japan,"cough, fever, pneumonia",,40-49,female,Wuhan,no,"Arrived Tokyo 21 Jan, then -> Hokkaido 22 Jan"
+110340,China,fever,,39,male,Wuhan,,business trip
+110874,China,"fever, sore throat",discharged,,female,Wuhan,,
+111052,China,pneumonitis,,36,male,Wuhan,,
+111063,China,pneumonitis,,41,female,Wuhan,,From Shanghai to Xi'an via Wuhan
+111074,China,pneumonitis,,25,male,Wuhan,,
+111085,China,pneumonitis,,46,female,,,
+111096,China,pneumonitis,,50,male,,,husband of patient 1834
+111107,China,pneumonitis,,36,female,Xianyang City,,From Xianyang City in Hubei province to Pucheng county in Weinan city
+111119,China,pneumonitis,,36,male,Xianyang City,,From Xianyang City in Hubei province to Pucheng county in Weinan city
+111130,China,pneumonitis,,32,female,,,been in contact with patient 1832 on 23.01.2020
+111141,China,pneumonitis,,64,male,,,been in contact with previous patients; mother-daughter relationship with patient 1834
+111152,China,pneumonitis,,70,male,,,history of being exposed to patients with fever in Wuhan
+111163,China,pneumonitis,,25,male,Wuhan,,"student studying at an university in Wuhan, From Wuhan to Hanyin county in Ankang city"
+111451,China,respiratory symptoms,,32,female,Wuhan,,travel
+112562,China,fever,,45,male,Wuhan,,
+112785,China,fever,,37,male,Wuhan,,
+113085,,"myalgia, rhinorrhea",,50,male,None,,6th case - husband of 5th case
+113673,China,fever,,45,male,Wuhan,,
+113785,China,"cough, fever",,56,male,Wuhan,,
+113896,China,"cough, fever",,50,male,Wuhan,,work in Wuhan; work in business of live poultry
+114784,China,"fever, respiratory symptoms",,18,female,Wuhan,,study trip
+114896,China,"fever, weak",,27,male,Wuhan,,businessman in Wuhan
+115007,China,"cough, fever",,40,female,Wuhan,,
+115784,China,"cough, fever",,42,female,,,
+115895,China,"fever, respiratory symptoms",,56,female,Wuhan,,business trip
+116118,China,"cough, fever",,33,male,Wuhan,,
+116229,China,"cough, fever, soreness",,40,male,Hubei,,Xiantao City resident
+116340,China,pharynx,,50,female,Wuhan,,
+116451,China,muscular soreness,,42,male,Wuhan,,
+116673,China,"cough, sore throat",,52,female,Wuhan,,
+116895,China,fever,,28,male,Wuhan,,
+117006,China,fever,,42,male,Wuhan,,"11 & 18.01.2020 visit Wuhan, 19.01.2020 back to Beijing"
+117007,China,fever,,22,male,Wuhan,,medical trip
+117118,China,fever,,32,female,Hangzhou,,business trip; met with fever patients (id 1011) from Wuhan in the same room
+117229,China,fever,,42,male,Wuhan,,business trip
+117562,China,fever,,38,male,Rushan City,no,contact with person with pneumonia
+117673,China,fever,,62,female,Xiaogan,,wife
+117784,China,fever,,65,male,Xiaogan,,husband
+118117,China,fever,,33,female,Wuhan,,
+119785,China,"fatigue, fever, weakness",,56,female,Wuhan,,normal temperature for 6 days and respiratory tract symptoms have improved. Two additional tests were negative for the virus.
+119896,China,"cough, fever, runny nose",,35,male,Wuhan,,"shanghai resident, travel history"
+121563,China,diarrhea,,76,male,Indian Tours,India,
+122340,China,"Sore throat, headache, runny nose and tiredness",,41,male,Cathay Pacific CX542 from Hong Kong to Tokyo on February 19 and Cathay Pacific CX505 from Tokyo via Hong Kong on February 21;,,
+122674,China,"cough, fever",,44,male,"With three daughters, they took the Cathay Pacific CX225 from Hong Kong to Glasgow via London on February 22 and returned to Hong Kong from Glasgow via London on February 28.",,
+123785,China,"fever, headache",,,male,Wuhan,,
+124007,China,fever,,28,female,Wuhan,,
+124085,South Korea,cough,,33,male,Wuhan,,Case 5
+124229,China,fever,,31,male,Wuhan,,
+124429,China,fever,,72,male,Wuhan,,admitted to  Queen Mary Hospital
+124440,China,fever,,73,female,Wuhan,,admitted to  Queen Mary Hospital
+124451,China,"cough, dyspnea, fever",,50,male,Wuhan,,
+124559,China,fever,,48,male,Wuhan,,
+124593,China,"fatigue, fever",,36,male,Wuhan,,
+124626,China,"chills, fever, muscle aches, other symptoms",,37,male,Wuhan,,Wuhan to Chengdu
+124637,China,"fatigue, muscle aches, sore throat",,19,male,Wuhan,,Wuhan to Chengdu
+124648,China,"cough, fever",,60,female,Wuhan,,tourism
+124659,China,"cough, fever",,58,male,Wuhan,,business trip
+124693,China,fever,,29,female,Wuhan,,
+124726,China,"fever, sore muscle, weakness",,47,male,Wuhan,,study trip
+124737,China,"fever, sore muscle, weakness",,52,male,Wuhan,,work in Wuhan for long time
+124748,China,"fatigue, fever",,51,male,Wuhan,,geotagged Kunming
+124759,China,"cough, fever",,53,male,Wuhan,,
+124770,China,"systemic weakness, runny nose, fever",discharged,39,female,Wuhan,,
+124922,China,fever,,33,male,Wuhan,,
+125026,China,fever,,46,male,Wuhan,,
+125037,China,fever,discharged,46,male,Wuhan,,
+125195,China,cough,,37,female,,,daughter of 9th and 10th patients;
+125196,China,"cough, dyspnea",,75,male,,,admitted to Princess Margaret Hospital
+125667,China,"cough, fever",,39,male,,,admitted to Princess Margaret Hospital
+125710,China,"cough, fever",,28,female,,,contact with someone with travel history from Wuhan
+125711,China,"fever, pharyngeal discomfort",,37,male,Went to Thailand; had dinner with firedns prior to trip,,unclear if Thailand trip is epidemiologically relevant
+125712,China,"chills, headache, fever",,51,female,Wuhan,,
+125713,China,"fever, sore throat, sputum",,45,female,,,
+125714,China,"cough, fever",,27,female,,,
+125716,China,fever,,32,male,Wuhan,,
+125717,China,physical discomfort,,35,male,Wuhan,,
+125855,China,discomfort,,31,male,Wuhan,,Quarantined 29.01.2020
+125856,China,weakness,,66,female,,,No clear history of exposure
+125858,China,fever,,32,male,"Beijing, Zhuzhou, Hunan, and Chengdu, Sichuan",,
+125860,China,fever; cough,,60,male,,,No clear history of exposure
+126174,China,"chest tightness, fever, nausea",,40,male,,,
+126393,South Korea,fever; headache; phlegm,,28,male,,,
+126490,Vietnam,respiratory symptoms,discharge,73,male,Wuhan,,two hours airport Wuhan
+126491,Vietnam,"cough, fever",discharge,25,female,,,receptionist in hotel where confirmed cases of chinese residents stayed
+126494,Philippines,"cough, sore throat",died,44,male,Wuhan via Hong Kong,,Travelled with other Philippines case; death reported https://www.bbc.com/news/world-asia-51345855; San Lazaro Hospital
+126499,South Korea,"cough, fever",,28,male,Wuhan via Qingdao,,Case 7; admitted to Seoul Medical Center
+126500,South Korea,"cough, fever, muscle ache",,62,female,Wuhan,,Case 8
+126509,Japan,"cough, runny nose",,20-29,female,Osaka to Tokyo; on tour bus for chinese tourists,no,13th case; tour guide; on the same bus as infected driver
+126510,Japan,asymptomatic,,30-39,male,Wuhan,,Asymp case 3
+126511,Japan,asymptomatic,,50-59,male,Wuhan,,Asymp case 4
+126512,Japan,"cough, fever",,40-49,male,Wuhan,no,14th case - contact with case 15 (was evacuee asyptomatic case #2)
+126513,Japan,"cough, fever",,40-49,male,Wuhan,,15th case; Chinese national (was asymptomatic evacuss case #3)
+126514,Japan,asymptomatic,,30-39,male,Wuhan,,Asymp case 5
+126523,Singapore,fever,,47,female,Wuhan,,Case 17; is this the same as Case 15?
+126527,China,"cough, fever",,80,male,Yokohama,no,"Princess Margaret Hospital, Mainland (10 Jan), then flight from Hong Kong to Tokyo, Japan on January 17 and board a cruise at Yokohama on January 20. The cruise arrived Kai Tak Cruise Terminal in Hong Kong on January 25."
+126537,China,fever,,25,female,Wuhan,,took a train from Wuhan to Fuyang; there were multiple patients in the same train
+126648,China,fever,,43,male,Macheng,,"took a train from Wuhan to Macheng (in Hubei province), then took another train from Macheng to Fuyang"
+126659,China,"fever, sore throat",,22,male,Wuhan,working in another market in Wuhan,arrived in Fuyang from Wuhan
+126704,China,"fever, muscular soreness, rigor",,51,male,Wuhan,,20.01.2020 arrived in Bozhou from Wuhan
+126726,China,"chills, diarrhea, dyspnea, headache, lack of energy, muscle pain",,38,male,Wuhan,,"19.01.2020 left Wuhan, 20.01.2020 arrived in Bozhou"
+126748,China,"cough, fever",,59,male,Wuhan,,"lived near a railway station in Wuhan;  left Wuhan by train, arrived in Fuyang, then took a bus to Bozhou"
+126766,China,"cough, fever",,26,male,Guangzhou,,family cluster?
+126767,China,fever,death,73,female,,,family cluster?
+126768,China,"cough, fever, sputum",,44,male,"Taizhou, Jiangsu",,Unclear when hospitalized; family cluster?
+126769,China,"cough, fever",,36,male,Wuhan via Xi'an,,Unclear when hospitalized
+126771,China,"cough, fever",,38,female,,,family cluster?
+126773,China,"cough, sputum",,64,female,"Yichang City, Hubei",,family cluster?
+126774,China,"cough, sore throat, sputum",,59,male,Wuhan,,family cluster?
+126775,China,fever,,39,female,Wuhan,,family cluster?
+126776,China,"chills, fatigue",,46,female,,,
+126781,China,"cough, fatigue, fever",,60,male,Wuhan,,"hypertention and diabetes; left Wuhan by train, arrived in Fuyang, then took a bus to Bozhou"
+126793,China,fever,,35,male,Xiangtan,,stopped for a rest at a service area on the border between hunan province and hubei province. 12.01.2020 drove from Xiangtan city in Hunan province and arrived in Bozhou
+126812,China,cough,,72,female,,,"exposure to patient 13 in Hong Kong, mother"
+126826,China,"fever, pharyngalgia",,25,female,Wuhan,,drove from Wuhan to Bozhou
+126854,China,fever; dry cough; fatigue,,47,male,,,"Contact with prior case, diagnosed on 28.01.2020"
+127026,South Korea,fever; muscle aches; chills,,50-59,female,,,
+127048,South Korea,dry cough,,40-49,female,,,
+127059,South Korea,sore throat; headache,,40-49,female,,,
+127137,South Korea,chills; abdominal pain,,50-59,male,,,
+127181,South Korea,"sore throat, fever",,13-19,female,,,
+127225,South Korea,fever; cough; sore throat,,40-49,female,,,
+127259,South Korea,cough; sore throat; body aches,,50-59,male,,,
+127347,China,pneumonia,,,,,,
+127483,China,lesions on chest radiographs,stable,47,male,"Ziyang County, Ankang",,
+127497,China,fever,,42,female,Wuhan,,
+127498,China,fever,,66,female,,,
+127499,China,"cough, fever",,36,female,,,
+127500,China,fever,,37,female,,,
+127501,China,"cough, fever",,46,female,,,
+127502,China,fever,,43,male,Malaysia,,
+127590,China,fever,,33,female,Wuhan,,
+127592,China,chest tightness,,42,female,Wuhan,,"family cluster (husband, wife)"
+127653,Malaysia,"cough, fever",,41,male,Singapore,,conference in singapore with many chinese
+127655,China,"cough, fever, runny nose",,59,male,Guangzhou,,travel to guangzhou; Earl Grey General Hospital - specific lat long unclear
+127656,China,"cough, fever, runny nose",,29,female,no,,visit home of 8th confirmed patient from Macao for 4h
+127657,South Korea,"cough, fever, runny nose",discharge,42,female,Thailand,,Case 16
+127660,Singapore,"fever, sore throat",discharge,28,female,no,,Case 19; worked at health product shop with many chinese tourists
+127674,China,"cough, fever",,64,female,no,,no visit to mainland recently
+127707,China,fever,,29,male,,,
+127708,China,fever,,69,female,,,
+127709,China,"cough, fever",,9,male,Malaysia,,
+127710,China,fever,,61,male,Wuhan,,
+127764,China,fever,,33,male,"Xiangyang, Hubei",,
+127779,China,"cough, diarrhoea, runny nose",,25,male,,,no travel history; admitted to Prince of Wales Hospital
+127792,China,"fatigue, fever",discharged,44,female,Wuhan,,
+127800,China,"cough, fever, eventually showed acute left heart failure and acute coronary syndrome",,66,female,Baodi district department store in Tianjin,,
+127801,China,"cough, high fever, myalgia",,51,female,,,admitted to Baodi People's Hospital
+127802,China,"fever, myalgia",,65,male,,,admitted to Baodi People's Hospital
+127894,Vietnam,cough,discharge,49,female,"Wuhan City, Hubei Province",,mother of another case
+127895,Vietnam,"cough, fever",discharge,16,female,"Wuhan City, Hubei Province",,younger sister of another patient
+127899,China,"cough, fever, shortness of breath",,64,female,,,no travel history; admitted to  Queen Elizabeth Hospital (QEH)
+127998,China,fatigue,,69,male,,,Spouse of confirmed case diagnosed 01.02.2020
+128075,China,fever;sore throat; fatigue; diarrhea,,54,female,,,
+128076,China,fever; fatigue,,62,male,,,
+128077,China,fever; sore throat;fatigue;vomiting,,60,female,Wuhan,,Was placed under observation 24.01.2020
+128078,China,cough,,45,female,,,
+128271,China,fever,,52,female,Zhengzhou Henan,,
+128328,China,"chest tightness, fever",,55,female,Wuhan,,
+128329,China,"fever, joint pain, muscle soreness",,48,female,Beijing,,
+128330,China,fever,,43,female,,,Epidemiological link to other case
+128331,China,fever,,35,male,,,
+128332,China,fever,,29,male,Vietnam,,Contact with travelers to Wuhan 21.01.2020
+128333,China,"cough, fever",,51,male,Wuhan - Hefei - Lujiang,,
+128334,China,"chills, fever",,35,male,,,Epidemiological link to other case
+128335,China,"cough, fever",,28,female,Luzhou,,
+128337,China,"chest pain, nasal congestion",,78,female,,,
+128338,China,"cough, muscle soreness, sweating",,38,female,,,Epidemiological link to other case
+128339,China,"cough, fever",,36,male,,,"Meal with visitor from Tianmen City, Hubei, 19.01.2020"
+128458,China,fever,,42,female,Wuhan,,transportation drivers often travel between Wuhan and Chongqing; 19.01.2020 drove from Wuhan to Fuyang
+128513,China,pneumonitis,,,,,,
+128694,Singapore,fever,,41,male,,,Case 29
+128799,China,fever,,22,female,Wuhan to Xuanwei,,
+129126,China,pneumonitis,,64,female,,,in isolation and treatment at the Second Affiliated Hospital of Xi'an Jiaotong University
+129148,China,pneumonia,,28,male,Wuhan,,worked in Wuhan for long time; admitted to Ankang Central Hospital
+129159,China,pneumonia,,41,male,Wuhan,,admitted to Ankang Central Hospital
+129276,China,pneumonitis,,,,,,
+129303,China,fever,,49,male,,,contact with friends from Wuhan
+129305,China,pneumonitis,,53,female,,,
+129360,China,"fever, myalgia, shortness of breath",,60,male,,,no travel history; admitted to Tseung Kwan O Hospital (TKOH)
+129425,China,"cough, discomfort, fever, other symptoms",,65,female,Wuhan,,Hainan Case 4
+129586,China,"cough, fever",,64,female,,,
+129587,China,fever,,35,female,,,
+129588,China,fever,,75,male,,,
+129589,China,fever,,61,female,"Xiaogan City, Huber province",,
+129590,Japan,"cough, fever, pneumonia, respiratory distress",,50-59,female,Wuhan,,Patient #18 (was evacuee asymptomatic case 5)
+129591,Japan,"fever, runny nose",,30-39,female,Wuhan,,Patient #17
+129598,Japan,"cough, fever",,40-49,male,Wuhan,,Case #20 (was asymptomatic csae 15?)
+129599,Japan,fever,,20-29,male,,,Case #21 Worked as a tour guide for Chinese tourists (some are from Hubei) (was asymptomaic case #16?)
+129600,,fever,,50-59,female,Italy,,"spouse of case (1/2); on the way to Italy, they stopped in Hong Kong"
+129601,,fever,,50-59,male,Italy,,"spouse of case (2/2); on the way to Italy, they stopped in Hong Kong"
+129602,,"chills, fever, runny nose, sore throat, sneezing",,40-49,female,Macau,,
+129611,,"cough, respiratory problems",,20-29,female,Taiwan,,
+129637,Japan,"fever, pneumonia, sore throat",discharged,40,male,Wuhan,no,
+129648,Japan,"cough, fever, sore throat",discharged,30,male,Wuhan,no,
+129659,Japan,"cough, fever",,30-39,female,Wuhan,no,entered Japan from Wuhan on 18.01.2020
+129670,Malaysia,asymptomatic,,65,female,Singapore,,related to 66 year old patient from Singapore (history of travel to Guangzhou)
+129682,Malaysia,asymptomatic,,2,male,Singapore,,"related to 66 year old patient from Singapore (history of travel to Guangzhou), Guangzhou to Singapore (20.01.2020) to Malaysia (22.01.2020)"
+129693,Malaysia,asymptomatic,,11,male,Singapore,,"related to 66 year old patient from Singapore (history of travel to Guangzhou), Guangzhou to Singapore (20.01.2020) to Malaysia (22.01.2020)"
+129704,Nepal,"cough, fever, shortness of breath",discharged,32,male,Wuhan,,student is studying in Wuhan and returned to Nepal on 09.01.2020
+129715,Singapore,"cough, fever",discharged,66,male,Wuhan,,Case 1
+129737,Singapore,"cough, fever",,53,female,Wuhan,,Case 2
+129770,South Korea,"cough, fever",,35,female,Wuhan,no,Case 1
+129804,South Korea,fever,discharge,55,male,Wuhan,,Case 2
+129826,,"cough, fever, shortness breath",,55,female,Wuhan,no,
+129904,Thailand,fever,,68,male,,,Chinese
+129926,Thailand,"chills, fever, headache, sore throat",,61,female,Wuhan,,Local market but not Huanan Seafood market
+129981,Thailand,"coughing, fever, muscle aches",,33,female,Wuhan,,
+130070,Malaysia,"cough, fever",discharged,40,male,"from Wuhan , traveled to Johor from Singapore",,Singapore;Johor
+130126,Thailand,"cough, fever, myalgia",discharged,51,male,,,
+130137,Thailand,fever,,73,female,Wuhan,,Described as the 6th case
+130170,South Korea,"chills, fever",,54,male,Wuhan,,Case 3
+130181,Japan,"fever, joint pain, pneumonia",,40,male,Wuhan,no,
+130253,China,"nausea, vomiting",,68,male,,,
+130266,Japan,"fever, headache",,60-60,female,"Hawaii, USA",,wife of a 60s male who was confirmed infected on the 14th
+130267,Japan,fever,,60-69,male,,,"acquaintance of woman that travelled to Hawaii, USA"
+130268,Japan,"fever, full body slump",,60-69,male,,,acquaintance of a patient whose infection was confirmed on the 16th.
+130269,Japan,"cough, fever",,60-69,male,,,Visited a couple in Nagoya who recently tested positive
+130578,Japan,"cough, fever",,50-59,male,Wuhan,no,Case #25 eeturned on January 29 on a charter flight (first flight) from Wuhan
+130680,China,fever,,59,female,Wuhan,,arrived in Huainan from Wuhan
+130708,China,"fever, cough",,42,female,Thailand,,Traveled with other confirmed patient 05.02.2020
+130709,China,"fever, cough",,26,female,Thailand,,Traveled with other confirmed patient 05.02.2020
+130710,China,"fever, dry throat, sore throat",,37,male,"Shiyan City, Hubei; Qingyuan County, Guangdong",,
+130711,China,fever; runny nose,,24,male,Wuhan,,
+130713,China,dry throat; sore throat; fatigue,,54,female,Thailand,,Travel with case confirmed on 03.02.2020; identified as close contact on 04.02.2020 and screend and admitted
+130714,China,headache; dry mouth,,29,female,Thailand,,Travel with case confirmed on 03.02.2020; identified as close contact on 04.02.2020 and screend and admitted
+130716,China,fever; dry mouth; throat discomfort,,38,female,Thailand,,Travel with case confirmed on 03.02.2020; identified as close contact on 04.02.2020 and screend and admitted
+130717,China,fever,,29,male,,,Met with confirmed cases 26.01.2020 - 31.01.2020 confirmed on 03.02.2020. Went for isolation on 31.01.2020
+130722,China,pharyngeal discomfort,,55,female,,,Close contact of confirmed case from 31.01.2020
+130723,China,fever,,27,female,,,Spouse of confirmed case from 07.02.2020
+130724,China,diarrhea,discharged,1,female,,,Contact with a confirmed case diagnosed on 03.02.2020
+130725,China,cough; throat discomfort,,46,female,,,Identified as close contact of case confirmed 02.02.2020
+130728,China,Pharyngeal dryness,,33,female,"Shapingba District, Chongqing City",,Contact with confirmed case from another province; under observation 04.02.2020
+130729,China,cough; sputum; fever,,23,male,Wuhan,,
+130730,China,fever,,27,female,Yinchuan,,Contact with confirmed cases in Yinchuan; isolated on 06.02.2020
+130731,China,dry throat; dry cough,,53,female,,,Lives in same unit as confirmed case 01.02.2020
+130732,China,"chest pain, cough",,34,female,,,
+130734,China,"cough, chest tightness, dry mouth",,58,female,,,Spouse of confirmed case
+130735,China,"cough, fever",,57,male,Beijing,,Stayed with confirmed case in Beijing
+130974,China,fever; cough; fatigue; nausea,,60,male,Guangzhou,,
+131005,China,fever; cough,,65,male,,,
+131006,China,fever; fatigue,,38,female,Wuhan,,
+131013,China,"cough, fever",,26,male,"Jiangxi, Guangzhou",,
+131017,China,"cough, fever, sputum",stable,27,male,"Dongguan City, Guangdong Province",,contact with infected patients
+131024,China,"nausea, vomiting",,68,,,,
+131030,China,"cough, fever",,33,male,"Guizhou, China",,
+131034,South Korea,"cough, fever, sore throat",,73,female,,,family members visited China's Guangdong province from November to Jan. 31
+131549,China,fever,,51,male,,,is colleague of the 55-year-old female patient of the 37th case confirmed on 10.02.20
+131550,China,"cough, diarrheoa, vomiting",,43,male,,,Case 51; relative of the 66-year-old male patient of the 47th case confirmed on February 11
+131551,China,"chills, cough, fever",stable,67,female,,,"Case 52; mother of case 53; had dinner with the patients of three confirmed cases (the 46th, 48th and 49th case); younger sister-in-law of the 75-year-old male patient of the 46th case"
+131552,China,fever,stable,37,male,,,"Case 53; son of case 52; had dinner with the patients of three confirmed cases (the 46th, 48th and 49th case)"
+131761,China,"cough, fever",,50,male,,,
+131762,China,"cough, fatigue, fever",,61,female,Wuhan,,
+179447,Romania,"asymptomatic, afebrile",discharged,47,male,Italy,,Case 4; sat on an airplane with case ID#13450
+179450,Romania,fever,,49,male,"Rome, Italy",,self isolating since returning from Italy
+179451,Romania,"fever, nausea, digestive discomfort",,73,female,"Rimini, Italy",,Case 16;
+179452,Romania,aggressive pulmonary symptomatology,,60,male,,,Case 17
+185097,Romania,asymptomatic,discharged,16,male,,,nephew of case #4; local transmission
+185098,Romania,"fever, chills",,71,male,"Lombardy, Italy",,Moved to intensive care on 18 March; comorbid lymphoma
+185100,Romania,asymptomatic,,51,male,Italy,,travelled with case #6 on the same coach bus
+185101,Romania,fever,discharged,44,male,"Bergamo, Italy",,
+241648,Argentina,"fever, cough, sore throat",,64,male,"Paris, France",,"Underlying health conditions, first death in South America"
+241926,Bahamas,"fever, cough",,61,female,,,"First case, no recent history of relevant travel"
+241970,Bahamas,mild respiratory symptoms,,,female,,,No contact with first case
+242014,Bahamas,significant clinical suspicion,died,57,female,Florida,,First reported death
+242025,Argentina,fever,,71,male,Spain,,
+242351,Ecuador,fever,,,female,"Madrid, Spain",,
+243170,Bolivia,"fever, general weakness, cough",,38,male,,,Local transmission
+243270,Bolivia,"fever, general weakness",,64,female,"Bergamo, Italy",,Imported case
+243359,Bolivia,"headache, general weakness, runny nose, acute respiratory distress syndrome",,,male,,,
+243425,Bolivia,"headache, general weakness, runny nose, mialgia",,30,male,Spain,,
+243826,Brazil,"fever, cough, running nose",discharged,61,male,Italy,na,
+243837,Brazil,"fever, cough, sore throat, mialgia, headache",discharged,32,male,Italy,na,
+243859,Brazil,Asymptomatic,,13,female,Italy and Portugal,na,SP is asymptomatic and returned from italy
+243870,Brazil,Contact of hCoV-19/Brazil/SPBR-01/2020,,37,female,Contact of hCoV-19/Brazil/SPBR-01/2020,na,Contact of hCoV-19/Brazil/SPBR-01/2020
+243881,Brazil,Contact of hCoV-19/Brazil/SPBR-01/2020,,69,female,Contact of hCoV-19/Brazil/SPBR-01/2020,na,Contact of hCoV-19/Brazil/SPBR-01/2020
+243892,Brazil,"fever, cough, nasal congestion, conjuntivitis",,27,female,Italy,na,
+243981,Brazil,acute respiratory syndrome,,52,female,"England, Switzerland",na,
+243992,Brazil,asymptomatic,,42,female,,na,contacted with confirmed case BA2
+244070,Brazil,"fever, cough, nasal congestion",,42,female,Italy,na,travelled with another confirmed COVID-19 from Rio
+244081,Brazil,"Rhinorrhea, pain and unwellness",,47,female,Italy,na,
+244092,Brazil,"Rhinorrhea, cough and fever",,42,male,Italy,na,
+244103,Brazil,"fever, cough and mialgia, between others",,27,male,"Europa, entre os dias 3 e 5 de mar‚àö√üo, com passagem por pa‚àö‚â†ses como It‚àö¬∞lia, Portugal, Espanha, Su‚àö‚â†‚àö√üa, Holanda, Israel, Egito e Gr‚àö¬©cia",na,
+244114,Brazil,"fever, cough and mialgia, between others",,42,male,"Europa, entre os dias 3 e 5 de mar‚àö√üo, com passagem por pa‚àö‚â†ses como It‚àö¬∞lia, Portugal, Espanha, Su‚àö‚â†‚àö√üa, Holanda, Israel, Egito e Gr‚àö¬©cia",na,
+244125,Brazil,"fever, cough and mialgia, between others",,70,male,"Europa, entre os dias 3 e 5 de mar‚àö√üo, com passagem por pa‚àö‚â†ses como It‚àö¬∞lia, Portugal, Espanha, Su‚àö‚â†‚àö√üa, Holanda, Israel, Egito e Gr‚àö¬©cia",na,
+244137,Brazil,"fever, cough and mialgia, between others",,56,female,"Europa, entre os dias 3 e 5 de mar‚àö√üo, com passagem por pa‚àö‚â†ses como It‚àö¬∞lia, Portugal, Espanha, Su‚àö‚â†‚àö√üa, Holanda, Israel, Egito e Gr‚àö¬©cia",na,
+244148,Brazil,"fever, cough and mialgia, between others",,61,female,"Europa, entre os dias 3 e 5 de mar‚àö√üo, com passagem por pa‚àö‚â†ses como It‚àö¬∞lia, Portugal, Espanha, Su‚àö‚â†‚àö√üa, Holanda, Israel, Egito e Gr‚àö¬©cia",na,
+244347,Brazil,"cough, fever",,72,male,"Participated in conference in Rio, infected wife",na,
+244359,Brazil,"cough, fever",,68,female,Wife from infected case RJ10,na,
+244362,Ecuador,mild symptoms,,,,,,Link to the first case confirmed in Ecuador
+244403,Brazil,"cough, fever, respiratory problems",,66,female,"Travelled to Rome, Italy, Married to PE2",na,
+244414,Brazil,"cough, fever, respiratory problems",,72,male,"Travelled to Rome, Italy, Married to PE1",na,
+244425,Brazil,"myalgia, headache, fever",,,,,na,
+244680,Brazil,"fever, respiratory problems (lungs)",,33,female,Patient works in hospital in SP and had contact with suspected case,na,
+244725,Brazil,"fever, cough and sore throat",,38,female,Israel,na,
+244758,Brazil,oligosymptomatic,,28,female,"Italy, France, Belgium",na,
+245159,Brazil,"fever, body ache, sore throat, headache",,57,male,Cruise in Africa and Europe,na,
+245359,Brazil,asymptomatic,,31,female,,na,
+246436,Brazil,"fever, myalgia, headache",,44,male,Traveled to SP and SC,na,
+246869,Brazil,asymptomatic,,69,female,Italy,na,
+246925,Brazil,"cough, fever",,,male,"Lives in UK, traveled to ES and SP",na,
+247091,Brazil,"fever, tosse, e sintomas respirat‚àö‚â•rios moderados",,42,male,"Spain, Italy, UK",na,
+247458,Brazil,"fever, cough",,60,male,"Italy, Milan",na,
+247758,Brazil,"fever, cough, myalgia",,69,male,,na,contact of a positve case
+252167,Guatemala,"chest pain, respiratory distress, fever, dysphagia, asthenia, weakness, fatigue",,27,female,"England, Los Angeles",,
+252228,Guyana,"severe, kidney failure and hypertension",death,52,female,"New York, New York, USA",,"fell ill after arriving in Guyana from New York, was taken to hospital due to uncontrollable diabetes and hypertension, was resuscitated successfully, but died 8 am 11.03.2020"
+255719,Brazil,"fever, cough, body ache, mialgia",,54,female,Italy (Bergamo),na,
+255720,Brazil,"fever, cough, coriza, sore throat, headache, general weakness",,19,female,Italy,na,
+255727,Brazil,"cough, fever",,69,male,France,na,
+256899,Argentina,"fever, cough and general malaise",,23,male,Italy,,Returned to the country on March 1
+258382,Chile,"Fever, cough, headache",,56,female,"Europe, Italy",,"Patient visited several countries in Europe, including Italy - third case"
+260945,Chile,Symptoms associated with a respiratory condition,,40,male,Italy,,Person in good general health
+260981,Chile,Mild respiratory symptoms,,58,male,Northern Italy,,
+261042,Chile,Symptoms associated with a respiratory condition,,17,male,"Europe, Italy",,Direct relative  to No.3 and 5 who travelled to Europe
+261055,Chile,"Mild respiratory symptoms, then on March 4 had feverish symptoms",,20,female,"France, England, Italy, Spain",,
+261074,Chile,Mild respiratory symptoms,,83,female,imported case,,Contracted virus from family member visiting from New York (who later presented symptoms and was diagnosed in US)
+261075,Chile,Mild respiratory symptoms,,39,male,,,"Related to 1st and 2nd cases, contracted virus via contact with them"
+261077,Chile,Mild respiratory symptoms,,14,male,"Europe, Italy",,"Travelled to Europe with patients 3,5 and 6)"
+261131,Chile,"fever, cough, headache",,33,male,Singapore,,First case in Chile; travelled for a month in Southeast Asia
+261134,Chile,Asymptomatic,,14,female,,,
+261135,Chile,Asymptomatic,,17,female,,,
+261561,Cuba,"first asymptomatic, devleoped mild respiratory sypmptoms (got over virus before being tested)",,,female,"Milan, Lombardy Region, Italy",,(Wife had travelled to Milan) (tested negative as disease had run its course)
+261562,Cuba,respiratory symptoms,,,male,,,Husband to case above
+261568,Cuba,Respiratory symptoms,,77,male,"California, USA",,
+261571,Cuba,Catarrhal symptoms,,37,female,"Rome, Italy",,isolation centre on the 17th March
+261575,Cuba,respiratory symptoms,,36,female,Guyana,,
+261593,Cuba,respiratory symptoms,,57,male,Spain,,
+261605,Cuba,mild respiratory symptoms,,94,female,,,possible recepient of infection from her daughter who arrived on March 7 from Spain
+261608,Cuba,catarrhal symptoms,,48,male,"Miami, USA",,
+261611,Cuba,catarrhal symptoms,,55,male,Ecuador,,
+261612,Cuba,catarrhal symptoms,,51,female,Ecuador,,
+261614,Cuba,respiratory symptoms,,72,male,France,,
+261621,Cuba,catarrhal symptoms,,55,female,United States,,
+261623,Cuba,respiratory symptoms,,36,female,,,
+261624,Cuba,respiratory symptoms,,44,male,,,
+261625,Cuba,respiratory symptoms,,31,female,Guyana,,
+261629,Cuba,respiratory symptoms,,56,male,France,,
+261633,Cuba,respiratory symptoms,,7,female,,,
+261675,Cuba,Respiratory,,6,male,,,"in contact with cousin, asymptomatic traveler from USA, visited 13th Mar-18th Mar"
+261684,Cuba,Respiratory,,53,male,Madrid Spain,,
+261740,Cuba,severe respiratory failure,,63,male,,,died
+261792,Cuba,respiratory,,42,male,,,in contact with confirmed case
+261794,Cuba,asymptomatic,,68,female,,,in contact with confirmed case
+261795,Cuba,asymptomatic,,63,female,,,in contact with confirmed case
+261796,Cuba,respiratory,,24,male,Dubai,,
+261801,Cuba,asymptomatic,,38,female,,,in contact with confirmed case
+261802,Cuba,asymptomatic,,22,male,,,in contact with confirmed case
+261803,Cuba,asymptomatic,,35,female,,,in contact with confirmed case
+261815,Cuba,asymptomatic,,42,male,,,in contact with confirmed cases
+261816,Cuba,asymptomatic,,71,male,,,in contact with confirmed cases
+261820,Cuba,asymptomatic,,31,male,,,in contact with confirmed cases
+261824,Cuba,asymptomatic,,34,male,,,in contact with confirmed cases
+261825,Cuba,asymptomatic,,55,male,,,in contact with confirmed cases
+261826,Cuba,asymptomatic,,20,female,,,in contact with confirmed cases
+261827,Cuba,asymptomatic,,22,female,,,in contact with confirmed cases
+261835,Cuba,asymptomatic,,7,female,,,in contact with traveller from Venuezuela
+261844,Cuba,asymptomatic,,28,female,,,in contact with confirmed cases
+261845,Cuba,asymptomatic,,68,male,Spain,,
+261846,Cuba,asymptomatic,,46,male,,,in contact with confirmed cases
+261853,Cuba,pneumonia,,68,female,,,
+261859,Cuba,Pneumonia,,41,female,,,contact of travelers from Belgium.
+261866,Cuba,asymptomatic,,65,male,,,in contact with confirmed cases
+261867,Cuba,asymptomatic,,71,female,,,in contact with confirmed cases
+261868,Cuba,asymptomatic,,72,female,,,in contact with confirmed cases
+261891,Cuba,asymptomatic,,59,female,,,in contact with confirmed cases
+261896,Cuba,respiratory difficult breathing died same day,,74,male,,,contact with Italians and confirmed cases -history of inveterate smoker and patient with myasthenia gravis
+261925,Cuba,torpid evolution with respiratory distress and severe bronchopneumonia,death,38,male,,,in contact with traveller from Switzerland
+262086,Cuba,Respiratory and pneumonia-died 6/4/2020,,80,female,,,in contact with traveller Mexico
+262173,Cuba,asymptomatic,,24,female,,,in contact with previous case
+262226,Cuba,pneumonia,,56,male,,,in contact with previous case
+262237,Cuba,kidney failure,,88,male,,,in contact with previous case
+265321,United States,"cough, fever, shortness of breath",,,,Beijing,,
+265377,Canada,mild,,2,,,United States,
+268688,United States,mild,,,,,,
+268699,United States,mild,,,,,,
+270165,United States,mild,,18-60,male,,,"Non-resident, visiting from out-of-state"
+270176,United States,mild,,18-60,male,,,"Non-resident, visiting from out-of-state"
+273032,United States,"fever, cough, shortness of breath",,65-,,,,
+273481,Canada,cough,,20-29,female,China,,
+274986,United States,runny nose,,20-29,male,Wuhan,no,"UMASS Boston Student, isolated in home, did not require hospitalization"
+279143,Puerto Rico,"cough, fever, difficulty breathing",,71,male,,,
+285798,United States,mild,,,female,,,
+290542,United States,mild,,,,,,NorthBay VacaValley Hospital health care worker
+292747,Canada,"cough, sore throat, body aches, fever",,60-69,female,Iran,,
+298543,United States,"cough, fever, shortness of breath",,60-69,,,,international travel
+305320,United States,"cough, fever, shortness of breath",,50-59,,,,
+305827,Canada,"dry cough, runny nose, shortness of breath, headache",,30-39,female,Iran,,
+305828,Canada,"cough, body aches, chills",,50-59,female,Iran,,
+305829,Canada,cough,,60-69,male,,,Linked to case 10 in Ontario
+318703,Canada,mild,,40-49,male,United Kingdom,,
+319651,United States,"cough, fever, nausea",,35,male,Wuhan,no,(1) https://www.nejm.org/doi/full/10.1056/NEJMoa2001191;    (2) Everett specifically? https://www.heraldnet.com/news/new-virus-from-china-reaches-us-and-snohomish-county/
+319661,Canada,cough,,60-69,male,Iran,,
+321883,United States,mild,,39,female,Iran,,Isolation at home

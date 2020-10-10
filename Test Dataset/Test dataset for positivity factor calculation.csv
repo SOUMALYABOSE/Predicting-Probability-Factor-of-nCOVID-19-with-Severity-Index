@@ -1,0 +1,60 @@
+Sl No.,Country,Symptoms,Travel,Travel_country
+1,Japan,"fever, severe pneumonia",,
+2,Japan,fever,Wuhan,China
+3,Japan,"cough, fever, sore throat",Wuhan,China
+4,Japan,"cough, fever",Aichi Prefecture,Japan
+5,Japan,"dyspnea, fever",,
+6,Japan,"cough, difficulty breathing, fever",,
+7,Japan,fever,,
+8,Malaysia,"feeling ill, coughing","Macau, mainland China",China
+9,Malaysia,"cough, fever","Wuhan, China",China
+10,China,fever,"Yichang City, Hubei Province",China
+11,China,cough; sputum; fever,Beijing,China
+12,China,dry cough,Chengdu,China
+13,China,cough; sore body; cold,Wuhan,China
+14,Spain,fever,,
+15,Spain,flu-like symptoms,Italy,Italy
+16,China,pneumonitis,Wuhan,China
+17,China,pneumonitis,,
+18,China,pneumonitis,Wuhan,China
+19,Nigeria,no serious symptoms,"Milan, Italy",Italy
+20,China,"fatigue, fever, headache",Wuhan,China
+21,China,"fatigue, fever",Wuhan,China
+22,China,fever,Hong Kong,Hong Kong
+23,China,fever,Wuhan,China
+24,China,"dizziness, sore limbs",Wuhan,China
+25,China,"systemic weakness, runny nose, fever",Wuhan,China
+26,China,fever,Wuhan,China
+27,Sweden,similar to a respiratory infection,Germany,Germany
+28,Lithuania,mild,"Verona, Italy",Italy
+29,Japan,"chills, headache, fatigue",,
+30,Netherlands,mild,"Lombardy, Italy",Italy
+31,Ecuador,fever,"Madrid, Spain",Spain
+32,China,"cough, fever",Wuhan,China
+33,China,fever,,
+34,Cambodia,"fever, runny nose",Wuhan,China
+35,Japan,"fever, pneumonia, sore throat",Wuhan,China
+36,Netherlands,respiratory complaints,,
+37,Sweden,mild,Northern Italy,Italy
+38,Iceland,mild,"Verona, Italy",Italy
+39,Canada,cough,Iran,Iran
+40,Russia,acute respiratory viral infection (ARVI),Italy,Italy
+41,United States,mild,Iran,Iran
+42,Japan,"cough, fever, sore throat",Wuhan,China
+43,Belgium,"fever, sneezing, coughing",Italy,Italy
+44,Belgium,"fever, sneezing, coughing",Italy,Italy
+45,Belgium,"fever, sneezing, coughing",Italy,Italy
+46,Belgium,"fever, sneezing, coughing",Italy,Italy
+47,Belgium,"fever, sneezing, coughing",Italy,Italy
+48,Belgium,"fever, sneezing, coughing",Italy,Italy
+49,Andorra,mild,Milan,Italy
+50,Czech Republic,"fever, chills, muscle, joint pain and cough",Italy,Italy
+51,Iceland,mild,Italy,Italy
+52,Iceland,mild,Italy,Italy
+53,Iceland,mild,Austria,Austria
+54,Guyana,"severe, kidney failure and hypertension","New York, New York, USA",USA
+55,Japan,difficulty breathing,,
+56,India,no serious symptoms,,
+57,India,no serious symptoms,,
+58,India,runny nose,,
+59,India,headache,,

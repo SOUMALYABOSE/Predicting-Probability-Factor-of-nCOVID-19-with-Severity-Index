@@ -1,0 +1,105 @@
+Sr. No. ,Gender,Age,Co-morbidity Status,Duration of Symptoms Before Hospitalisation,Symptoms present at the time of admission,Treatment Given,SpO2 at time of admission,Time between hospitalization and Death in days,Interval between day of admission and patient put on ventilator,Time interval between patient put on Ventilator to Death
+1,Male,42,Alcoholic Liver Disease,1 to 3 days,Fever,HCQ + Azi + Lopinavir/Ritonavir,,1 to 2 days,Within 24 hours,Within 24 hours
+2,Female,62,HTN + DM + CKD,More than 5 days,Fever + Breathlessness,HCQ + Azi,86%,2 to 3 days,Within 24 hours,3 days
+3,Male,65,COPD,More than 5 days,Fever + Breathlessness,MPS/ Dexamethasone,84%,Upto than 24 hrs,Within 24 hours,2 days
+4,Male,81,HTN + DM + CKD,More than 5 days,Cough + Breathlessness,HCQ,,1 to 2 days,Within 24 hours,Within 24 hours
+5,Male,57,HTN + DM + IHD,More than 5 days,Fever + Cough + Breathlessness,HCQ + Azi,94%,2 to 3 days,,
+6,Female,40,HTN,1 to 3 days,Fever + Cough + Breathlessness,HCQ + Azi,80%,2 to 3 days,2 days,Within 24 hours
+7,Male,78,,1 to 3 days,Breathlessness,HCQ + Azi,68%,1 to 2 days,Within 24 hours,Within 24 hours
+8,Female,65,HTN + DM,1 to 3 days,Breathlessness,MPS/ Dexamethasone,84%,1 to 2 days,Within 24 hours,Within 24 hours
+9,Male,75,HTN + DM,3 to 5 days,Cough + Breathlessness,LWMH Heparin,76%,1 to 2 days,Within 24 hours,Within 24 hours
+10,Female,40,DM,3 to 5 days,Cough + Breathlessness,HCQ + Azi,93%,3 to 4 days,2 days,2 days
+11,Female,55,HTN + IHD,1 to 3 days,Cough + Breathlessness,MPS/ Dexamethasone,96%,1 to 2 days,3 days,Within 12 hours
+12,Male,64,HTN + DM + IHD,1 to 3 days,Cough + Breathlessness,HCQ + Azi + Lopinavir/Ritonavir,78%,More than 7 days,More than 5 days,Within 12 hours
+13,Female,58,COPD,Upto than 24 hrs,Breathlessness,HCQ + Azi,100%,2 to 3 days,Within 24 hours,3 days
+14,Female,52,HTN + DM,1 to 3 days,Fever + Breathlessness,HCQ + Azi,59%,3 to 4 days,3 days,Within 12 hours
+15,Male,85,,3 to 5 days,Breathlessness,HCQ,85%,4 to 5 days,3 days,Within 12 hours
+16,Female,68,HTN + DM,3 to 5 days,Cough + Breathlessness,HCQ + Azi,62%,4 to 5 days,Within 24 hours,More than 3 days
+17,Male,62,DM,More than 5 days,Fever + Cough + Breathlessness,HCQ + Azi,88%,More than 7 days,,
+18,Female,60,HTN + DM,1 to 3 days,Fever + Cough + Breathlessness,HCQ + Azi,98%,5 to 7 days,More than 5 days,Within 12 hours
+19,male,47,Other,1 to 3 days,Breathlessness,HCQ + Azi,97%,3 to 4 days,3 days,Within 12 hours
+20,Male,40,None,1 to 3 days,Cough,HCQ + Azi,90%,5 to 7 days,5 days,Within 12 hours
+21,Male,78,HTN + DM,1 to 3 days,Fever + Breathlessness,Azithromycin,,,,
+22,Female,70,None,1 to 3 days,Breathlessness,HCQ + Azi,98%,5 to 7 days,More than 5 days,Within 24 hours
+23,Female,60,HTN + DM,1 to 3 days,Cough + Breathlessness,HCQ + Azi,85%,1 to 2 days,2 days,Within 12 hours
+24,Male,43,DM,3 to 5 days,Fever + Cough + Breathlessness,HCQ + Azi,98%,2 to 3 days,2 days,Within 12 hours
+25,Male,65,HTN,3 to 5 days,Fever + Cough + Breathlessness,HCQ + Azi,98%,More than 7 days,More than 5 days,Within 12 hours
+26,Male,55,DM,1 to 3 days,Cough + Breathlessness,LWMH Heparin,,2 to 3 days,Within 24 hours,3 days
+27,Male,48,DM,3 to 5 days,Fever + Cough,HCQ + Azi,90%,5 to 7 days,More than 5 days,Within 12 hours
+28,Male,58,HTN,1 to 3 days,Cough + Breathlessness,HCQ,72%,4 to 5 days,4 days,Within 12 hours
+29,Male,66,HTN,1 to 3 days,Fever + Cough + Breathlessness,HCQ + Azi,92%,4 to 5 days,5 days,Within 12 hours
+30,Female,52,HTN + DM,Upto than 24 hrs,Cough + Breathlessness,HCQ,47%,5 to 7 days,More than 5 days,2 days
+31,Female,52,HTN + DM + CKD,1 to 3 days,Fever + Breathlessness,HCQ,94%,4 to 5 days,3 days,3 days
+32,Male,71,HTN + DM,1 to 3 days,Fever + Cough + Breathlessness,HCQ,90%,2 to 3 days,2 days,Within 12 hours
+33,Male,47,HTN + CKD,3 to 5 days,Breathlessness,MPS/ Dexamethasone,94%,More than 7 days,More than 5 days,Within 12 hours
+34,Male,67,DM,1 to 3 days,Fever + Cough + Breathlessness,LWMH Heparin,69%,Upto than 24 hrs,Within 24 hours,Within 12 hours
+35,Male,55,HTN,1 to 3 days,Fever + Cough + Breathlessness,HCQ + Azi,93%,More than 7 days,More than 5 days,Within 12 hours
+36,Male,39,DM,1 to 3 days,Fever + Breathlessness,Augmentin/Piptaz/Meropenem,88%,4 to 5 days,3 days,Within 12 hours
+37,Female,65,HTN,1 to 3 days,Cough + Breathlessness,LWMH Heparin,60%,4 to 5 days,Within 24 hours,More than 3 days
+38,Male,45,None,1 to 3 days,Breathlessness,HCQ,93%,2 to 3 days,2 days,Within 12 hours
+39,Male,56,DM,3 to 5 days,Fever + Cough,HCQ + Azi,93%,2 to 3 days,2 days,Within 12 hours
+40,Male,51,HTN + DM,1 to 3 days,Fever + Breathlessness,HCQ,87%,4 to 5 days,4 days,Within 24 hours
+41,Male,60,IHD,1 to 3 days,Cough + Breathlessness,LWMH Heparin,98%,4 to 5 days,2 days,2 days
+42,Male,35,None,1 to 3 days,Breathlessness,Augmentin/Piptaz/Meropenem,97%,2 to 3 days,Within 24 hours,3 days
+43,Male,75,CKD,More than 5 days,Cough + Breathlessness,Azithromycin,90%,5 to 7 days,More than 5 days,Within 12 hours
+44,Female,62,HTN + DM,3 to 5 days,Fever + Breathlessness,LWMH Heparin,84%,1 to 2 days,Within 24 hours,Within 12 hours
+45,Male,67,HTN + DM,3 to 5 days,Fever + Breathlessness,Augmentin/Piptaz/Meropenem,90%,Upto than 24 hrs,Within 24 hours,Within 12 hours
+46,Male,66,Alcoholic Liver Disease,More than 5 days,Fever + Cough + Breathlessness,MPS/ Dexamethasone,92%,5 to 7 days,5 days,Within 12 hours
+47,Female,60,HTN + DM + IHD,Upto than 24 hrs,Breathlessness,LWMH Heparin,86%,1 to 2 days,Within 24 hours,Within 12 hours
+48,Male,48,HTN + DM,3 to 5 days,Breathlessness,Plasma therapy,92%,More than 7 days,More than 5 days,Within 12 hours
+49,Female,62,HTN + DM,Upto than 24 hrs,Fever + Cough + Breathlessness,HCQ,95%,More than 7 days,More than 5 days,Within 12 hours
+50,Male,66,HTN + CKD,1 to 3 days,Breathlessness,HCQ + Azi,80%,5 to 7 days,5 days,Within 12 hours
+51,Male,68,HTN + DM,1 to 3 days,Fever + Cough,LWMH Heparin,96%,5 to 7 days,5 days,Within 12 hours
+52,Male,80,HTN + DM + IHD,Upto than 24 hrs,Fever + Breathlessness,HCQ,78%,3 to 4 days,3 days,Within 24 hours
+53,Male,64,HTN,,Fever + Cough + Breathlessness,MPS/ Dexamethasone,79%,Upto than 24 hrs,Within 24 hours,Within 24 hours
+54,Male,50,DM + CKD,3 to 5 days,Fever + Breathlessness,MPS/ Dexamethasone,85%,5 to 7 days,,
+55,Male,85,COPD,,Fever + Cough + Breathlessness,MPS/ Dexamethasone,89%,2 to 3 days,,
+56,Male,45,None,3 to 5 days,Cough + Breathlessness,MPS/ Dexamethasone,98%,2 to 3 days,3 days,Within 12 hours
+57,Male,84,COPD,More than 5 days,Breathlessness,MPS/ Dexamethasone,76%,3 to 4 days,,
+58,Male,68,Obesity,More than 5 days,Fever + Breathlessness,LWMH Heparin,70%,Upto than 24 hrs,Within 24 hours,Within 12 hours
+59,Female,54,DM,1 to 3 days,Cough + Breathlessness,HCQ + Azi,85%,5 to 7 days,5 days,Within 12 hours
+60,Female,71,HTN,3 to 5 days,Cough + Breathlessness,HCQ + Azi,92%,5 to 7 days,More than 5 days,Within 12 hours
+61,Female,39,HTN + DM,More than 5 days,Breathlessness,HCQ + Azi,100%,5 to 7 days,Within 24 hours,More than 3 days
+62,Male,46,HTN,1 to 3 days,Fever + Cough + Breathlessness,MPS/ Dexamethasone,84%,3 to 4 days,4 days,Within 12 hours
+63,Male,80,Other,1 to 3 days,Fever + Cough + Breathlessness,HCQ + Azi,91%,5 to 7 days,5 days,Within 24 hours
+64,Male,57,HTN + DM + IHD,1 to 3 days,Fever + Breathlessness,HCQ + Azi,97%,More than 7 days,More than 5 days,Within 12 hours
+65,Male,42,HTN,1 to 3 days,Breathlessness,MPS/ Dexamethasone,86%,More than 7 days,More than 5 days,Within 12 hours
+66,Female,62,HTN + DM + IHD,More than 5 days,Fever + Breathlessness,HCQ,97%,More than 7 days,More than 5 days,2 days
+67,Female,76,IHD,1 to 3 days,Breathlessness,LWMH Heparin,78%,3 to 4 days,More than 5 days,More than 3 days
+68,Male,60,HTN + DM,3 to 5 days,Fever + Cough,MPS/ Dexamethasone,98%,More than 7 days,More than 5 days,Within 12 hours
+69,Female,46,HTN,1 to 3 days,Cough + Breathlessness,,60%,2 to 3 days,,
+70,Female,60,HTN,1 to 3 days,Cough + Breathlessness,HCQ + Azi,91%,More than 7 days,More than 5 days,Within 12 hours
+71,Male,60,DM,3 to 5 days,Fever + Cough + Breathlessness,MPS/ Dexamethasone,93%,5 to 7 days,,
+72,Male,62,Immuno-compromised,1 to 3 days,Breathlessness,HCQ + Azi + Lopinavir/Ritonavir,92%,2 to 3 days,2 days,Within 12 hours
+73,Male,60,HTN + DM,1 to 3 days,Fever + Cough + Breathlessness,MPS/ Dexamethasone,87%,3 to 4 days,,
+74,Male,63,HTN + DM,More than 5 days,Fever + Cough + Breathlessness,HCQ + Azi,90%,More than 7 days,More than 5 days,More than 3 days
+75,Male,67,HTN + DM,Upto than 24 hrs,Fever + Cough,HCQ + Azi,90%,5 to 7 days,More than 5 days,Within 12 hours
+76,Male,61,HTN,1 to 3 days,Breathlessness,HCQ,80%,1 to 2 days,Within 24 hours,Within 24 hours
+77,Male,62,None,1 to 3 days,Fever + Cough + Breathlessness,HCQ + Azi,90%,5 to 7 days,5 days,Within 24 hours
+78,Male,47,None,1 to 3 days,Fever + Cough + Breathlessness,HCQ,94%,4 to 5 days,3 days,Within 24 hours
+79,Male,46,None,1 to 3 days,Cough + Breathlessness,HCQ,90%,4 to 5 days,2 days,2 days
+80,Male,52,None,1 to 3 days,Cough + Breathlessness,HCQ + Azi,97%,2 to 3 days,Within 24 hours,Within 12 hours
+81,Male,50,HTN,More than 5 days,Cough + Breathlessness,MPS/ Dexamethasone,80%,Upto than 24 hrs,Within 24 hours,Within 12 hours
+82,Male,68,Other,Upto than 24 hrs,Cough + Breathlessness,MPS/ Dexamethasone,92%,2 to 3 days,2 days,Within 12 hours
+83,Male,73,HTN,1 to 3 days,Breathlessness,MPS/ Dexamethasone,96%,5 to 7 days,,
+84,Male,78,HTN,3 to 5 days,Fever + Cough + Breathlessness,MPS/ Dexamethasone,78%,2 to 3 days,,
+85,Male,80,HTN,3 to 5 days,Breathlessness,MPS/ Dexamethasone,82%,2 to 3 days,,
+86,Female,60,HTN + DM,1 to 3 days,Fever + Breathlessness,Azithromycin,98%,More than 7 days,,
+87,Male,65,IHD,1 to 3 days,Fever + Cough + Breathlessness,HCQ + Azi,87%,More than 7 days,3 days,More than 3 days
+88,Male,69,HTN + DM + IHD,3 to 5 days,Fever + Cough + Breathlessness,HCQ + Azi,96%,3 to 4 days,4 days,Within 12 hours
+89,Male,42,CKD,1 to 3 days,Breathlessness,MPS/ Dexamethasone,65%,4 to 5 days,5 days,Within 12 hours
+90,Female,30,Other,Upto than 24 hrs,Cough + Breathlessness,MPS/ Dexamethasone,55%,1 to 2 days,,
+91,Female,69,DM,1 to 3 days,Fever + Cough + Breathlessness,Azithromycin,45%,1 to 2 days,,
+92,Male,57,HTN,1 to 3 days,Breathlessness,HCQ + Azi,92%,2 to 3 days,Within 24 hours,Within 12 hours
+93,Female,53,DM,3 to 5 days,Cough + Breathlessness,MPS/ Dexamethasone,56%,More than 7 days,More than 5 days,3 days
+94,Male,64,HTN + DM + CKD,,Cough + Breathlessness,Azithromycin,95%,1 to 2 days,,
+95,Female,46,HTN + DM,3 to 5 days,Fever + Breathlessness,HCQ + Azi,92%,More than 7 days,,
+96,Male,48,DM,1 to 3 days,Fever + Breathlessness,HCQ + Azi + Lopinavir/Ritonavir,92%,1 to 2 days,Within 24 hours,Within 12 hours
+97,Female,55,HTN + DM + CKD,1 to 3 days,Fever,MPS/ Dexamethasone,85%,More than 7 days,More than 5 days,Within 24 hours
+98,Male,36,None,3 to 5 days,Fever + Breathlessness,HCQ,90%,More than 7 days,More than 5 days,Within 12 hours
+99,Male,69,None,,Fever + Cough + Breathlessness,MPS/ Dexamethasone,50%,Upto than 24 hrs,Within 24 hours,Within 12 hours
+100,Male,75,None,1 to 3 days,Fever + Breathlessness,MPS/ Dexamethasone,88%,2 to 3 days,,
+101,Male,72,IHD,Upto than 24 hrs,Fever + Cough + Breathlessness,HCQ + Azi + Lopinavir/Ritonavir,86%,More than 7 days,,
+102,Male,25,DM,3 to 5 days,Fever,HCQ + Azi + Lopinavir/Ritonavir,98%,More than 7 days,More than 5 days,Within 12 hours
+103,Male,70,IHD,1 to 3 days,Cough + Breathlessness,MPS/ Dexamethasone,75%,2 to 3 days,,
+104,Male,50,Alcoholic Liver Disease,,Fever,,89,More than 7 days,,
