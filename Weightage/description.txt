@@ -1,0 +1,1 @@
+The files in this folder are the calculated weightage of different symptoms and comorbidites. The factors are fatality rate in some cases and frequency of occurence in some cases.
