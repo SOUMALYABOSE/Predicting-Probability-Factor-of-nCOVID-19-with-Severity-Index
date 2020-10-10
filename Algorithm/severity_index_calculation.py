@@ -7,7 +7,7 @@ import random
 from matplotlib import pyplot as plt
 
 data=pd.read_csv("C:\\Users\\Ankush\\Desktop\\ML Assignment\\arko\\Data for severity calculation.csv",delimiter=',',index_col=0).fillna('not')
-comor_data=pd.read_csv("C:\\Users\\Ankush\\Desktop\\ML Assignment\\arko\\comor.csv",delimiter=',',index_col=0).fillna('not')
+comor_data=pd.read_csv("C:\\Users\\Ankush\\Desktop\\ML Assignment\\arko\\comorbidity_factor.csv",delimiter=',',index_col=0).fillna('not')
 treat_data=pd.read_csv("C:\\Users\\Ankush\\Desktop\\ML Assignment\\arko\\Treatment.csv",delimiter=',',index_col=0).fillna('not')
 severity_val=[]
 def sigmoid(x):
